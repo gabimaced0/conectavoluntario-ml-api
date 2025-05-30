@@ -53,7 +53,7 @@ pip install fastapi scikit-learn pandas joblib uvicorn
 Execute o script dentro da pasta da sua aplicação
 
 ```bash
-uvicorn classificar_api:app --reload
+uvicorn app:app --reload
 ```
 
 Acesse a interface de teste da API:
