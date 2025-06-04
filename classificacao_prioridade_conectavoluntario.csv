@@ -1,51 +1,1001 @@
 texto,prioridade
-Precisamos de médico urgente no abrigo zona norte,alta
-"Idoso com falta de ar no abrigo central, socorro imediato",alta
-Criança ferida após deslizamento em comunidade isolada,alta
-"Resgate necessário em local alagado, acesso difícil",alta
-Equipe médica solicitada com urgência no abrigo sul,alta
-"Pessoa desacordada após enchente, precisa de ambulância",alta
-"Mulher em trabalho de parto no abrigo, sem assistência médica",alta
-"Criança desaparecida após enchente, apoio urgente",alta
-"Desabamento parcial em abrigo, feridos no local",alta
-Falta de medicamentos essenciais em abrigo crítico,alta
-"Explosão em abrigo por curto-circuito, vítimas no local",alta
-"Grupo de idosos isolado em área sem acesso, socorro aéreo",alta
-Infecção generalizada suspeita em abrigo improvisado,alta
-"Casos de hipotermia registrados após enchente, emergência",alta
-"Pessoa presa nos escombros, sem comunicação há horas",alta
-Ajuda com transporte de doações para escola abrigo,média
-Motorista com carro necessário para levar alimentos,média
-Descarregar caminhão de mantimentos no abrigo central,média
-Distribuição de marmitas em bairros próximos precisa de apoio,média
-Organização de roupas no ponto de apoio da zona leste,média
-Entrega de kits de higiene em comunidade sem acesso,média
-Transporte de voluntários para o abrigo X,média
-Distribuição de cobertores durante a noite,média
-Ajuda para embalar doações de roupas infantis,média
-Reposição de garrafas de água nos pontos de apoio,média
-Carregar caixas de alimentos para o caminhão,média
-Movimentação de colchões para novo abrigo,média
-Reposição de itens de limpeza no estoque central,média
-Entrega de material escolar nas áreas atingidas,média
-Transporte de famílias para abrigo seguro,média
-Ajuda com organização de doações no final do dia,baixa
-Recreação com crianças no abrigo às 15h,baixa
-Limpeza do pátio do abrigo amanhã pela manhã,baixa
-Organizar kits escolares para entrega durante a semana,baixa
-Distribuição de panfletos informativos para moradores,baixa
-Catalogação de roupas por tamanho e tipo,baixa
-Organização do estoque de alimentos secos,baixa
-Separar livros e brinquedos para doação,baixa
-Apoio para cadastro de novos voluntários,baixa
-Montar painel informativo no abrigo,baixa
-Organizar lista de tarefas dos voluntários,baixa
-Suporte administrativo ao coordenador do abrigo,baixa
-Entrega de folhetos com orientações de segurança,baixa
-Ajuda no agendamento de consultas médicas,baixa
-Manutenção e reposição de cartazes informativos,baixa
-Arrumação dos colchonetes após evacuação,baixa
-Triagem de utensílios de cozinha doados,baixa
-Controle da entrada de doações recebidas,baixa
-Montagem de kit lanche para café da manhã,baixa
-Organização do armário de materiais escolares,baixa
+Uma criança machucou a perna na praça do bairro e precisa de atendimento médico. Alguém pode ajudar?,MEDIA
+"Centro de saúde na Av. Sapopemba, nº 1950, enfrenta escassez de medicamentos essenciais. Aproximadamente 20 pacientes, incluindo crianças, afetados. Necessidade de reabastecimento urgente para garantir tratamento contínuo.",MEDIA
+"Um morador idoso na Rua das Flores, São Paulo, está sem medicamentos essenciais. Ele precisa urgentemente de ajuda para conseguir seus remédios. A situação já afeta sua saúde desde ontem.",ALTA
+Os estoques de comida estão baixando rápido no abrigo comunitário do bairro. Precisamos de doações urgentes para alimentar quem está lá.,ALTA
+Tem um rapaz com dor de cabeça leve na praça do bairro. Alguém pode verificar se ele está bem?,BAIXA
+"Na manhã de hoje, na estação de trem de Santo Amaro, a falta de ônibus está causando atrasos consideráveis para trabalhadores e estudantes. Alternativas de transporte são necessárias para regularizar o fluxo.",MEDIA
+Precisamos de transporte urgente para idosos no asilo Vila Esperança. Eles estão sem condições de se deslocar e precisam de apoio imediato.,ALTA
+"O parque comunitário do bairro está sem energia elétrica desde ontem à noite, impactando atividades noturnas e a segurança local. Solicito apoio para restabelecer a eletricidade o mais breve possível.",MEDIA
+"O posto médico da Praça da Sé está sem equipe e sem insumos básicos para emergências graves. Aproximadamente 20 pacientes, incluindo crianças, sem atendimento adequado. Transporte médico necessário com urgência.",ALTA
+"Na Avenida Dr. Arnaldo, próximo ao Hospital das Clínicas, há bloqueio de vias devido a deslizamento de terra, comprometendo acesso de ambulâncias e transporte público. Urgente necessidade de desobstrução para manter fluxo de veículos de emergência.",ALTA
+Precisamos de socorro médico imediato! Criança inconsciente na Avenida Paulista!,ALTA
+"A comunidade do Jardim Primavera enfrenta falta d'água há três dias, afetando a higiene e saúde dos moradores. É urgente a necessidade de fornecimento e reparo imediato. A situação se agrava com o calor intenso.",ALTA
+"Na Unidade Básica de Saúde localizada na Avenida Paulista, nº 980, há falta de profissionais médicos para atender a crescente demanda de pacientes com sintomas gripais. Aproximadamente 30 indivíduos sem atendimento adequado.",MEDIA
+Precisamos de transporte urgente para levar alimentos e remédios a famílias isoladas pela enchente no bairro Jardim Flores. Alguém pode ajudar com um carro ou caminhão?,ALTA
+Um jovem com convulsão na praça central! Precisa de socorro urgente!,ALTA
+"Na Rua Florença, próximo ao número 200, uma criança precisa de um curativo simples após uma pequena queda. O incidente ocorreu por volta das 15h de hoje. Familiares conseguem acompanhar, mas faltam materiais básicos.",BAIXA
+"Uma mulher está tendo convulsões na entrada do supermercado, precisamos de ajuda médica urgente!",ALTA
+"O bairro Jardim Paulista enfrenta um bloqueio total das vias devido a alagamentos intensos. Aproximadamente 50 moradores, incluindo crianças, estão sem transporte para refúgios seguros. Urge intervenção imediata para evacuação.",ALTA
+Uma criança está com febre alta na creche Vila Esperança e ainda não conseguimos um médico para ajudar.,ALTA
+Uma senhora está passando mal no mercado e precisa de atendimento médico.,MEDIA
+"Um morador idoso do bairro não está bem e precisa de atendimento médico rápido, mas ainda não conseguimos um médico para ajudar. Qualquer apoio próximo é urgente!",ALTA
+Preciso de transporte urgente para hospital! Carro ou ambulância indisponível!,ALTA
+"Na Vila Mariana, próximo à Avenida Lins de Vasconcelos, há escassez crítica de suprimentos alimentares em um abrigo temporário, impactando 50 moradores. Necessidade urgente de reabastecimento para evitar agravamento da situação.",ALTA
+Precisamos de transporte urgente para checar moradores isolados no bairro.,MEDIA
+"Estou sem transporte para voltar para casa, preciso de uma carona urgente na estação.",BAIXA
+"Uma criança está com febre alta no abrigo, precisa de remédios rápido.",MEDIA
+"Um idoso precisa de medicação na Avenida Paulista, situação sob controle.",BAIXA
+Precisamos de profissionais de saúde para prestar assistência a moradores com sintomas de gripe no centro comunitário da Vila Mariana.,MEDIA
+"Precisamos de comida no abrigo da rua Silva, pessoas com fome urgente!",ALTA
+Precisamos urgentemente de alimentos no centro comunitário do Jardim das Flores. Muitas famílias sem recursos e estoque acabando. Alguém pode ajudar?,ALTA
+"Precisamos de carona para moradores sem carro até o posto de saúde Vila Nova, estão sem transporte para consultas agendadas.",BAIXA
+"Na Vila Mariana, às 14h, uma senhora idosa precisa de assistência médica para uma consulta de rotina. Atenderesse pedido pode evitar complicações futuras de saúde.",BAIXA
+O ônibus do bairro está parado e há um grupo de pessoas sem como voltar para casa. Precisamos de ajuda urgente com transporte na Avenida Principal.,ALTA
+"Há necessidade de transporte adicional na Rua das Flores, Bairro Central, especialmente entre 18h e 20h. O fluxo de pessoas aumentou devido a eventos locais, mas não há urgência significativa no momento.",BAIXA
+Uma mulher caiu na rua e precisa de ajuda médica imediatamente!,MEDIA
+Urgente! Famílias no bairro X estão sem comida! Precisamos de ajuda imediata!,ALTA
+Famílias estão sem comida na comunidade Jardim Brasil! Precisam de mantimentos urgente!,ALTA
+"Famílias sem comida no bairro, precisamos de mantimentos urgentes para hoje!",ALTA
+"Precisamos de transporte urgente para evacuar pessoas presas em área de risco, situação crítica!",ALTA
+"Na região de Guaianases, Rua Manuel da Nobrega, nº 275, há escassez crítica de alimentos no abrigo local, impactando diretamente cerca de 80 pessoas, incluindo 15 crianças, com necessidade urgente de reposição de suprimentos.",ALTA
+"Na Rua das Flores, às 8h, uma idosa precisa de atendimento médico urgente devido a uma queda. Ela está consciente, mas sente muita dor e não consegue se mover.",ALTA
+"O centro comunitário no bairro de Santana está precisando de doações de alimentos não perecíveis, pois o estoque está diminuindo. Voluntários podem ajudar a repor as prateleiras antes do fim de semana.",MEDIA
+"No bairro da Mooca, famílias necessitam de alimentos básicos. A situação foi observada nesta manhã e doações podem ser entregues no centro comunitário local. Seu apoio pode fazer a diferença.",MEDIA
+Famílias no bairro Jardim Novo precisam urgente de alimentos. As doações estão diminuindo e muitos estão sem o básico para a próxima semana.,MEDIA
+O estoque de alimentos no centro comunitário está quase acabando e há várias famílias em necessidade urgente de comida. Precisamos de doações o quanto antes.,ALTA
+"Um morador da Rua das Flores precisa de atendimento médico por causa de dores intensas e ainda não conseguimos ajuda profissional. Por favor, alguém próximo pode ajudar com orientação médica?",MEDIA
+"Uma árvore caiu na Rua das Flores, bloqueando totalmente a saída de emergência do prédio residencial. Os moradores estão presos desde às 14h e precisam de assistência urgente para garantir sua segurança.",ALTA
+"Na Rua das Flores, um idoso precisa de medicação para hipertensão até o fim do dia. O posto de saúde do bairro estava sem estoque hoje de manhã, o que pode afetar seu bem-estar.",MEDIA
+"O Centro Comunitário de São Miguel Paulista está enfrentando uma grave falta de alimentos. Famílias estão sem suprimentos básicos, necessitando urgentemente de doações de alimentos não perecíveis diariamente a partir das 9h.",ALTA
+"O ponto de ônibus na Avenida Paulista está sem cobertura e chove bastante. Alguns passageiros pedem apoio de guarda-chuvas ou dicas de rotas alternativas. Isso ocorre entre 8h e 10h, impactando trabalhadores e estudantes.",BAIXA
+"O Centro Comunitário Jardim Sul carece de frutas e pães para o café da manhã das crianças. É importante receber doações até amanhã, às 9h, para atender a 50 crianças.",MEDIA
+"Posto de saúde na Avenida Brasil, nº 567, enfrenta falta temporária de equipamentos básicos de primeiros socorros, impactando atendimento não urgente. Estoque deve ser reabastecido em breve, sem necessidade de evacuação.",BAIXA
+"Uma pequena clínica na região de Santo André está enfrentando falta de máscaras e luvas para pronto atendimento. A situação está sob controle, mas seria útil receber doações ainda hoje.",MEDIA
+Famílias sem comida na Praça Central! Precisamos de mantimentos urgentes!,ALTA
+"Há risco de inundação nas proximidades do Parque São Jorge. A situação é crítica, com possibilidade de alagamentos nas próximas horas. Recomendamos evacuação imediata e busca por abrigo seguro.",ALTA
+Preciso de transporte urgente para a Estação Central. Alguém pode ajudar?,BAIXA
+Estamos com falta de voluntários no centro comunitário para distribuir kits de higiene. Precisamos de ajuda para garantir que todos recebam o necessário.,MEDIA
+"Urgente! Crianças com fome perto da Avenida Paulista, precisam de alimentos agora!",ALTA
+Um morador precisa de curativo para corte leve na mão.,BAIXA
+"Na Rua das Flores, uma pessoa de idade caiu às 10h e parece precisar de assistência médica para garantir que está bem. Alguém pode ajudar a verificar?",MEDIA
+Várias pessoas estão ilhadas devido a uma enchente na Rua dos Pinheiros e precisam de transporte urgente para sair de lá em segurança.,ALTA
+"Na comunidade do Jardim São Luís, há escassez de alimentos, afetando várias famílias. Doações urgentes são necessárias para suprir a demanda e garantir refeições diárias. O problema se intensificou nas últimas 24 horas.",ALTA
+"Precisamos de caronas solidárias para idosos na rua Flor de Maio, que estão com dificuldade de acesso ao transporte público.",MEDIA
+"Estamos precisando de voluntários para ajudar na organização dos donativos no centro comunitário. Se alguém puder ajudar, será muito bem-vindo!",BAIXA
+"Na Vila Prudente, moradores enfrentam dificuldades com transporte público insuficiente para o número de passageiros no horário de pico, por volta das 18h. Isso tem causado atrasos em compromissos importantes.",MEDIA
+Precisamos de alimentos no abrigo Rua Central. Estoque acabou!,ALTA
+"Na Rua João Pessoa, nº 455, há necessidade urgente de insumos médicos e profissionais de saúde para atendimento de 15 pessoas, incluindo crianças com sintomas graves de desidratação. A acesso ao local está parcialmente comprometido por deslizamento de terra.",ALTA
+"O bloqueio parcial da Rua Primavera, nº 125, devido a obras, limita o fluxo de veículos, mas não impede a circulação pedestre. A situação requer ajustes na sinalização para evitar congestionamentos.",BAIXA
+"Estamos precisando de apoio médico na praça do bairro, tem várias pessoas com sintomas de gripe forte e ninguém para ajudar. Quem puder, por favor venha ou entre em contato.",MEDIA
+"Os moradores da Rua Glicínias enfrentam acúmulo de lixo desde ontem à tarde, afetando a saúde e bem-estar. Precisamos de apoio para coordenação de limpeza e conscientização comunitária.",MEDIA
+"Estou preso na Avenida Paulista, preciso de transporte urgente para sair daqui!",MEDIA
+Precisamos de assistência médica para uma criança com febre alta no Centro Comunitário Vila Nova. Alguém pode ajudar?,MEDIA
+"Na rua das Flores, um idoso está caído e aparentemente inconsciente. Precisamos de ajuda médica urgente.",ALTA
+Não temos comida suficiente no abrigo! Precisamos de ajuda urgente!,ALTA
+"Famílias sem comida na Rua Principal, situação crítica, ajuda urgente!",ALTA
+"Na Avenida Paulista, altura do número 1578, interrupção de transporte público devido a alagamento. Cerca de 200 pessoas aguardam alternativas de deslocamento. Necessário suporte logístico para proporcionar rotas alternativas.",ALTA
+"Na região de Guarulhos, muitos moradores estão sem transporte público devido a uma paralisação inesperada. Isso causa dificuldades no deslocamento para o trabalho e outros compromissos. Ajuda com transporte alternativo é urgente.",ALTA
+Alguém no nosso prédio está com sintomas de febre alta e precisa de uma avaliação médica. Estamos preocupados e buscamos ajuda urgente para verificar a situação.,MEDIA
+"A Avenida Ibirapuera enfrenta congestionamento intenso devido a um acidente, bloqueando o acesso de veículos de emergência a três hospitais próximos. Atrasos significativos na chegada de suprimentos médicos são esperados.",MEDIA
+Precisamos de apoio urgente para ajudar no resgate de pessoas presas no edifício após o desabamento na Rua das Flores. Situação crítica!,ALTA
+"Na Avenida Paulista, altura do número 2000, há bloqueio total de trânsito devido a alagamento, impactando a circulação dos ônibus e veículos de emergência. Cerca de 30 pessoas aguardam transporte alternativo para deslocamento urgente.",ALTA
+"Na Rua das Flores, ônibus têm demorado mais de 30 minutos no horário de pico, prejudicando estudantes e trabalhadores. Sugiro verificar alternativas de transporte entre 17h e 20h.",MEDIA
+"Na Rua das Flores, transporte público está paralisado desde 6h, impedindo acesso ao hospital local. Urgente necessidade de alternativas para pacientes em tratamento necessário.",ALTA
+"Vazamento de gás na rua Silva, perigo imediato! Preciso de ajuda urgente!",ALTA
+"Há um aumento significativo de casos de febre nos arredores do Jardim Peri. Necessário apoio médico urgente, especialmente para crianças, nas próximas 24 horas para evitar complicações graves.",ALTA
+"Precisamos de apoio médico no centro comunitário, há alguns idosos necessitando de avaliação após uma pequena queda. Situação está controlada, mas atenção médica é bem-vinda.",MEDIA
+"Na região da Vila Mariana, o acesso à Rua Vergueiro está bloqueado devido a inundação, impactando o transporte público local e a mobilidade de cerca de 200 moradores. Requer desobstrução urgente para restabelecer o transporte.",ALTA
+"Na Rua das Flores, alguém precisa de ajuda médica urgente. Foi observado um desmaio por volta das 14h. Seria importante o atendimento rápido para evitar complicações.",ALTA
+"Na Rua Domingos de Morais, nº 1200, o trânsito desacelerado afeta a entrega de suprimentos. Necessária coordenação para otimizar rotas e evitar atrasos nos horários de pico.",BAIXA
+"Um idoso na Rua das Flores, São Paulo, precisa de transporte para uma consulta médica amanhã às 9h. Ele está sem opções de transporte disponíveis no momento.",BAIXA
+Uma criança caiu e machucou feio a perna no parque da Vila das Flores. Precisamos de assistência médica urgente no local!,ALTA
+"Na Rua das Flores, uma senhora precisa de consulta médica básica. Ela está bem, mas gostaria de verificar a pressão arterial. O atendimento pode ser feito até às 18h.",BAIXA
+"O centro comunitário no bairro Peruíbe enfrenta uma escassez crítica de alimentos. Urgente necessidade de doações para atender as famílias afetadas. A situação se agrava a cada hora, principalmente entre 09h e 18h.",ALTA
+"Urgente: preciso de transporte para sair da área, sem opções disponíveis. Por favor, ajuda!",MEDIA
+"Na Avenida Paulista, altura do número 1230, há congestionamento causado por obras emergenciais na via, impactando o transporte público. A situação requer ajuste no tráfego e comunicação aos motoristas para garantir fluidez.",BAIXA
+"Estamos sem alimentos na creche da rua Esperança, as crianças estão sem lanche. Precisamos de doações urgentes para alimentá-las hoje.",ALTA
+"Um morador no prédio Rio Verde precisa de uma consulta médica para checar febre leve. Se alguém puder ajudar, seria ótimo!",BAIXA
+"No bairro Bela Vista, idosos na casa de repouso ""Viver Bem"" precisam de assistência médica urgente devido a um surto de gripe. Atendimento necessário ainda hoje para evitar complicações.",ALTA
+"Pessoa machucada no parque. Precisa de ajuda médica, ninguém por perto para socorrer!",MEDIA
+Famílias na Rua dos Pinheiros estão sem mantimentos básicos. Precisamos de doações para ajudar a comunidade a se manter até a próxima semana.,MEDIA
+Alguém machucou a perna na quadra do parque e está sem atendimento. Precisamos de ajuda médica para garantir que não piore.,MEDIA
+"Há um pequeno grupo na Praça Leônidas, no final da manhã, que precisa de primeiros socorros. Sem ferimentos graves. Uma equipe local pode ajudar com curativos e orientações.",BAIXA
+Uma criança está febril e precisa de consulta médica no centro comunitário do bairro. Algum médico poderia ajudar?,MEDIA
+"Na Avenida Paulista, o congestionamento afeta a mobilidade local, atrasando o transporte público. Nenhum bloqueio completo, mas fluxo de ônibus está lento, impactando passageiros durante o horário de pico.",BAIXA
+Precisamos de médico urgente! Um senhor está com dificuldade para respirar na praça ao lado do supermercado da Vila Nova. Ninguém sabe o que fazer.,ALTA
+"Na Vila Mariana, alunos permanecem na escola desde 16h, sem transporte disponível devido a paralisação inesperada. Precisa-se urgentemente de alternativas de deslocamento para garantir segurança e retorno às suas casas.",ALTA
+"Neste momento, há uma emergência médica na Rua das Flores, 45, em São Paulo. Pessoas estão precisando de atendimento imediato. Voluntários com formação médica são urgentemente necessários para ajudar.",ALTA
+Precisamos de transporte urgente para pessoas isoladas depois da enchente na Avenida Central!,MEDIA
+"Criança com febre alta e sem médicos por perto, precisamos de ajuda urgente!",ALTA
+"Na Avenida Paulista, altura do número 900, o trânsito está bloqueado devido a um acidente grave. Várias ambulâncias estão retidas, prejudicando a evacuação e atendimento de emergências médicas na área. Reforço logístico e desvio urgente necessários.",ALTA
+Famílias sem comida na rua 8. Precisamos de mantimentos urgente!,ALTA
+"Precisamos urgentemente de transporte para evacuar as famílias do prédio na Rua das Acácias, a estrutura está comprometida e pode desabar a qualquer momento.",ALTA
+"Criança com febre alta e convulsões na praça central, precisa de assistência médica urgente!",ALTA
+"A comunidade do bairro Santa Clara está ficando sem mantimentos, especialmente para as crianças. Precisamos de alimentos não perecíveis urgentemente para alimentar as famílias necessitadas!",ALTA
+"Na comunidade de Jardim São Luis, zona sul de São Paulo, há escassez crítica de alimentos. Aproximadamente 50 famílias estão sem suprimentos básicos devido à interrupção de abastecimento local.",ALTA
+Precisamos de comida urgente na comunidade do Pq. Santo Antônio! Situação crítica.,ALTA
+"Idoso com dor leve no braço, precisa de avaliação médica.",BAIXA
+"Precisamos de comida urgentemente no abrigo Vila Madalena, estamos sem nada!",ALTA
+Precisamos de transporte urgente para levar mantimentos e remédios ao centro comunitário; os suprimentos estão acabando e a situação é crítica.,ALTA
+"Precisamos de transporte para levar moradores idosos do bairro Parque Verde até o posto de saúde mais próximo. A situação não é crítica, mas é importante agir logo.",MEDIA
+Estamos precisando de voluntários para ajudar na organização de doações no centro comunitário Vila Esperança. Muitas caixas aguardando triagem.,MEDIA
+Uma criança caiu e machucou o joelho na praça da Rua das Flores. Precisa de um curativo básico. Alguém pode ajudar?,BAIXA
+"Preciso de um curativo e ataduras para um corte leve, por favor.",BAIXA
+"O Centro Comunitário Jardim das Flores está sem alimentos suficientes para atender as famílias locais. Precisamos de doações urgentes, especialmente de itens não perecíveis, para garantir apoio imediato. Local: Rua das Rosas, 150. Horário: manhã e tarde.",ALTA
+"Estamos precisando de doações de alimentos na creche do bairro, pois muitas famílias não têm o suficiente para o jantar hoje.",MEDIA
+"Na clínica comunitária do Jardim Primavera, há uma pequena fila para consultas médicas básicas. Apesar da espera, a situação é controlada, mas alguns médicos extras podem ajudar a agilizar o atendimento. Horário de pico: 10h às 12h.",BAIXA
+"Precisamos de um médico urgentemente na praça da Vila Rosa, tem alguém com suspeita de AVC e ninguém especializado por perto!",ALTA
+Muro caiu bloqueando saída do beco. Sem perigo imediato.,BAIXA
+"Alguém precisa de atenção médica na praça central! Não está grave, mas é urgente.",MEDIA
+Preciso de ajuda para transportar comida para a comunidade. Aguardando voluntários.,BAIXA
+"O transporte público no bairro Cidade Líder está operando com intervalos irregulares desde esta manhã. Isso tem causado atrasos frequentes, especialmente para trabalhadores e estudantes, que estão enfrentando dificuldades para chegar a seus destinos.",MEDIA
+Precisamos de voluntários para ajudar na limpeza e distribuição de roupas no centro comunitário da Vila Esperança; a situação está crítica por falta de mãos.,ALTA
+"O pessoal na Praça da Liberdade precisa de transporte para levar doações até o centro comunitário, mas ainda não temos ninguém disponível. Ajuda leve e urgente!",BAIXA
+"A unidade de saúde na Avenida Paulista, nº 1234, enfrenta carência de suprimentos médicos essenciais, impactando atendimento a cerca de 50 pacientes. Pede-se urgência na reposição de medicamentos e materiais para prevenir agravamento da situação.",ALTA
+"Preciso de ajuda urgente para encontrar minha família, estamos separados há horas!",MEDIA
+"Em São Bernardo do Campo, o centro de distribuição na Avenida João Firmino, nº 2003, enfrenta escassez crítica de água potável, impactando 500 residentes, incluindo crianças e idosos. Necessidade urgente de reabastecimento para evitar complicações de saúde.",ALTA
+O centro de saúde do Jardim Ipiranga está sem suprimentos médicos básicos e com atendimento comprometido. Há 20 pacientes aguardando cuidados urgentes. Urgente reforço logístico para reposição de materiais.,ALTA
+"Um idoso se sentiu mal na praça do bairro e precisa de avaliação médica, só que ainda não encontramos assistência por aqui. Alguém pode ajudar?",MEDIA
+"Urgente! Criança passou mal em frente ao supermercado, desmaiou. Precisa de socorro imediato!",ALTA
+"Na Rua das Flores, um senhor está precisando de atendimento médico por causa de tontura persistente. Ocorreu por volta das 10h, e ele está sendo assistido por vizinhos, mas a situação requer atenção de um profissional de saúde.",MEDIA
+"Tem uma pessoa com dores leves de cabeça na praça central, poderia ter alguém para verificar?",BAIXA
+"Na Rua das Flores, número 250, uma senhora precisa de consulta médica devido a desconforto respiratório leve. A situação é controlada, mas seria ideal uma avaliação ainda hoje para garantir segurança.",MEDIA
+"A linha de ônibus 305 na região de Santana está com atrasos frequentes há dois dias, afetando o deslocamento de muitos trabalhadores no horário de pico da manhã. Seria ideal reforçar o serviço para evitar transtornos.",MEDIA
+Tem uma criança com febre alta no centro comunitário do bairro e não há medicação suficiente. Precisamos de ajuda médica para avaliar a situação.,MEDIA
+"Precisamos de comida no abrigo, pessoas estão passando fome, urgente!",ALTA
+"Alguém precisa de atendimento médico urgente na Praça dos Coqueiros; parece ter desmaiado. Quem puder ajudar, por favor, vá até lá.",MEDIA
+"Preciso de primeiros socorros para um corte leve na perna. Local seguro, mas urgência.",BAIXA
+"Na Unidade Básica de Saúde do Jardim São Paulo, há carência de termômetros funcionais, afetando a triagem de pacientes com sintomas leves. O problema limita a capacidade de diagnósticos precisos, mas não compromete serviços essenciais.",BAIXA
+"Hospital São Miguel, na Zona Leste, enfrenta falta de suprimentos médicos essenciais, incluindo medicamentos críticos e equipamentos de suporte vital. Isso compromete gravemente o atendimento de emergências e pacientes em estado crítico.",ALTA
+"Uma senhora caiu e está machucada, precisa de ajuda médica rápida na praça central.",MEDIA
+"Na Rua das Flores, nº 215, há uma carência de alimentos para aproximadamente 30 residentes, incluindo 10 crianças. O acesso ao local é viável, mas a área carece de suprimentos básicos há dois dias.",MEDIA
+Uma mãe com duas crianças está precisando de suporte médico no posto de saúde do bairro Vila Esperança. Alguém pode verificar?,MEDIA
+"Na Rua das Flores, uma pessoa precisa de atendimento médico urgente após um acidente. Ambulância não chegou ainda. Por favor, quem puder ajudar a acionar serviço de emergência, a situação é crítica.",ALTA
+"Na Associação da Vila Formosa, há necessidade urgente de alimentos devido ao aumento de 50% de famílias atendidas na última semana. Doações são essenciais entre 9h e 18h para evitar falta crítica.",ALTA
+"Uma criança está com dificuldade para respirar no Centro Comunitário Vila Esperança. Precisamos de ajuda médica imediata, pois ela não está melhorando.",ALTA
+"A senhora Maria, moradora da rua Jasmim, apresenta sintomas leves de gripe e gostaria de uma consulta. Seria ideal que um voluntário médico a visitasse entre 10h e 12h.",BAIXA
+"Precisamos de comida no Lar Solidário, estamos ficando sem estoque!",MEDIA
+"Na Rua das Flores, número 345, a fiação elétrica está danificada, apresentando risco de curto-circuito. A área está sem energia desde ontem à noite, afetando cerca de 50 residências. A assistência técnica urgente é necessária.",ALTA
+"A dona Maria está com uma tosse persistente há dias, mas ainda não conseguiu atendimento médico. Alguém pode ajudar a levá-la a um posto de saúde?",BAIXA
+O centro comunitário do bairro precisa de alimentos para famílias afetadas pela última enchente. Quem puder ajudar com doações será muito bem-vindo.,MEDIA
+"O Centro Comunitário do Jardim Paulista está sem alimentos básicos. Famílias chegam constantemente, e a situação está se tornando insustentável. Precisamos urgentemente de doações para atender todos. O ideal é receber contribuições até o final do dia.",ALTA
+Preciso de ajuda médica para uma pessoa com dificuldades para respirar no parque central!,ALTA
+Famílias na Vila Esperança precisam urgentemente de alimentos. Estoques de comida acabaram e muitas crianças estão sem refeições adequadas.,ALTA
+A Avenida Santo Antônio enfrenta congestionamento devido a obras urgentes. Moradores e visitantes estão com dificuldade de chegar ao centro de Osasco rapidamente. Recomenda-se usar rotas alternativas no horário de pico.,ALTA
+"A praça no centro de São Bernardo do Campo precisa de uma limpeza urgente devido ao acúmulo leve de lixo. A situação não é crítica, mas a manutenção regular garantiria um ambiente mais agradável para todos.",BAIXA
+Preciso de um médico urgente no cruzamento da Av. Paulista! Pessoa inconsciente!,ALTA
+"Na Rua das Flores, os idosos estão com dificuldade de transporte para o posto de saúde. Uma van solidária aos sábados, das 8h às 10h, poderia ajudar. Impacto notado é no acesso aos cuidados médicos regulares.",BAIXA
+"O parquinho da Praça dos Pinheiros está com alguns brinquedos danificados, talvez precise de manutenção para segurança das crianças. Um reparo simples pode resolver a situação rapidamente.",BAIXA
+"No centro comunitário do Jardim São Luís, estoques de alimentos estão baixos após a chegada de novas famílias. Ajuda com doações é bem-vinda durante a tarde, para garantir o fornecimento de refeições nesta semana.",MEDIA
+"No bairro de São Miguel Paulista, uma pessoa se encontra em situação de emergência médica na Rua das Flores, necessitando de atendimento urgente. O incidente ocorreu por volta das 14h, e assistência médica imediata é vital para estabilização.",ALTA
+Uma mulher está com muita dor e precisa de um médico urgente na Rua Silva!,ALTA
+Falta comida urgentemente no abrigo perto da estação. Ajuda crítica!,ALTA
+"Na Av. das Nações, ônibus estão escassos durante manhã e noite, dificultando o deslocamento. Pessoas enfrentam longas esperas, especialmente das 7h às 9h e das 18h às 20h. Melhorias no serviço são necessárias para aliviar a situação.",MEDIA
+Precisamos de transporte urgente para levar mantimentos do bairro Vila Nova até o centro comunitário no Jardim Esperança. Alguém consegue ajudar?,MEDIA
+Uma criança está com febre alta no centro comunitário Vila Verde e precisamos de um médico urgentemente.,ALTA
+"Precisamos de redes de proteção urgentemente no parquinho da Praça do Sol, pois algumas estão danificadas e representam risco para as crianças que brincam ali.",MEDIA
+"Na Rua das Flores, número 120, há um idoso necessitando de atendimento médico urgente devido a uma queda. O incidente ocorreu por volta das 15h e ele apresenta dificuldades para se mover. Assistência imediata é crucial.",ALTA
+"A escola municipal no bairro do Grajaú está sem suprimentos educacionais básicos, impactando 250 alunos diariamente. A falta de material compromete o desenvolvimento educacional da região.",ALTA
+Preciso de transporte urgente para Hospital Municipal. Idoso com dificuldade de locomoção.,ALTA
+"A UBS Jardim Ipê, na Rua das Flores, está com falta pontual de materiais para curativos, afetando o atendimento de casos leves. Reposição necessária para evitar atrasos nos procedimentos.",BAIXA
+"Preciso de uma orientação médica simples, nada grave, por telefone.",BAIXA
+Estamos com falta de alimentos na comunidade do Parque São Jorge e muitas famílias estão passando necessidade. Precisamos de doações urgentes para ajudar nossos vizinhos.,ALTA
+"Um vizinho nosso está com febre alta e precisamos de um termômetro ou orientação médica na Avenida das Flores, número 120. Alguém pode ajudar?",MEDIA
+Precisamos de um médico urgentemente no posto de saúde da Vila São Pedro; pessoas passando mal e sem atendimento suficiente no local.,ALTA
+"Na Rua das Flores, número 85, houve um deslizamento de terra por volta das 15h. A situação é crítica, pois está impedindo o acesso às residências, afetando a segurança dos moradores. Precisamos de ajuda urgente para remoção e suporte.",ALTA
+"A praça central em Santo Amaro está sem iluminação à noite, o que pode causar insegurança para quem passa pelo local. Seria ótimo se pudesse ser verificado o quanto antes.",BAIXA
+"Na Rua das Flores, n° 123, há uma pessoa idosa precisando de assistência médica urgente desde esta manhã. A situação parece séria, e qualquer ajuda médica próxima seria de grande auxílio.",ALTA
+Preciso de um médico para avaliar um ferimento leve aqui no bairro.,MEDIA
+"O centro comunitário do Jardim São Luiz está com baixo estoque de alimentos e precisa de doações urgentes. Voluntários podem entregar mantimentos até às 17h, para atender cerca de 50 famílias que chegam diariamente.",MEDIA
+"Na Vila Mariana, próximo à Rua Domingos de Morais, há escassez de alimentos no centro comunitário local, afetando aproximadamente 50 pessoas. A situação demanda reposição urgente para garantir o bem-estar dos beneficiários.",ALTA
+"O parque central apresentou problemas no sistema de iluminação. A área fica escura ao anoitecer, podendo causar desconforto aos frequentadores. Sugiro reparos rápidos para melhorar a segurança local.",BAIXA
+Preciso de ajuda urgente! Uma criança está inconsciente no parquinho da Vila das Flores e precisamos de assistência médica imediata.,ALTA
+"Uma senhora precisa de atendimento médico urgente na Rua das Flores, 123, Jardim Primavera. Ela está com dificuldades respiratórias. O pedido é para hoje à tarde, por volta das 15h.",ALTA
+"O Centro Comunitário São Paulo enfrenta escassez de alimentos, impactando várias famílias. Necessário auxílio urgente. Local: Rua das Flores, 250. Horário: manhã e tarde. Sua ajuda pode fazer a diferença.",ALTA
+"Precisamos de voluntários para ajudar no recolhimento de doações no centro comunitário. As chuvas destruíram muitas casas, e a comunidade precisa de apoio imediato para se reerguer.",ALTA
+"Na Vila Mariana, ocorreu um vazamento de gás por volta das 9h, causando evacuação urgente de prédios próximos. Recomenda-se evitar a área e buscar abrigo seguro até resolução completa da situação.",ALTA
+"Na Rua dos Pinheiros, n° 123, há uma senhora idosa com dificuldade respiratória, necessitando de atenção médica urgente. O sintoma começou há cerca de uma hora, e a situação aparenta se agravar rapidamente.",ALTA
+"Hoje, por volta das 17h, várias ruas no bairro de Pinheiros estão alagadas devido às fortes chuvas, afetando o transporte público e particular. Recomenda-se buscar rotas alternativas ou adiar deslocamentos, se possível.",MEDIA
+"O centro comunitário do Jardim das Flores está com estoque reduzido de alimentos devido à demanda crescente. Precisamos de doações de alimentos não-perecíveis, especialmente arroz e feijão, para atender as famílias. A coleta é das 10h às 16h.",MEDIA
+"Há um problema leve com a linha de ônibus 12 na Rua das Flores, operando com atrasos de cerca de 15 minutos. Os passageiros são aconselhados a planejar suas viagens com antecedência.",BAIXA
+"Na Rua das Flores, nº 215, tem ocorrido um desabastecimento completo de água, afetando aproximadamente 50 famílias. A situação persiste há mais de três dias, comprometendo a saúde e higiene dos moradores.",ALTA
+"O posto de saúde na Rua dos Andradas, nº 225, está com estoque esgotado de medicamentos essenciais e sem profissionais suficientes para atender urgências. Aproximadamente 30 pacientes aguardando atendimento crítico.",ALTA
+"Incêndio em um prédio na Rua das Flores, precisamos de ajuda urgente!",ALTA
+Um grupo de idosos precisa de assistência médica no centro comunitário. Não há atendimento disponível e eles estão sem remédios essenciais.,MEDIA
+"Uma árvore caiu na Rua das Flores, no bairro da Liberdade, bloqueando a via desde as 14h. Isso está causando congestionamento significativo. Precisamos de ajuda para remoção e orientação do tráfego.",ALTA
+"Na Rua das Orquídeas, há uma senhora idosa precisando de atendimento médico urgente por volta das 14h. Ela parece estar com dificuldades respiratórias e está só em casa.",ALTA
+"Muitas famílias no bairro Recanto das Flores precisam urgentemente de alimentos básicos. Se puder, ajude com doações ou encaminhe para alguém que possa ajudar.",MEDIA
+Um vizinho idoso na Rua das Flores está sem seus remédios e precisa de atenção médica. Alguém pode ajudar?,MEDIA
+Muitas famílias no bairro São Luís estão sem comida e precisamos de doações urgentemente para não passarem fome.,ALTA
+"No bairro de Santana, uma pessoa necessita de atendimento médico urgente devido a uma queda grave. O incidente ocorreu por volta das 10h e assistência médica imediata é essencial para evitar complicações sérias.",ALTA
+"Há uma criança com febre alta na Rua das Flores, 120. Precisamos de um médico ou enfermeiro para avaliar a situação o quanto antes.",MEDIA
+"Na Vila das Flores, hoje pela manhã, houve interrupção de ônibus que afeta o deslocamento de trabalhadores. Pede-se coordenação de transporte alternativo para facilitar o trajeto até o metrô mais próximo.",MEDIA
+"A Avenida Sapucaí, no bairro Vila Andrade, enfrenta congestionamento crítico devido a bloqueios de vias e obras. A circulação de transporte público e ambulâncias é impedida, afetando acesso a serviços essenciais e causando atrasos consideráveis.",MEDIA
+"O centro comunitário no bairro Paraisópolis está sem alimentos desde ontem à noite, afetando cerca de 150 pessoas. Precisamos de doações urgentes na Rua do Sol, número 45. Agradecemos qualquer ajuda durante o dia de hoje.",ALTA
+Tem algumas pessoas com sintomas leves de gripe na casa de apoio do bairro e seria bom ter algum monitoramento médico.,BAIXA
+Temos um grupo de voluntários sem transporte para entregar doações na creche do bairro. Precisamos de um carro para ajudar com as entregas.,BAIXA
+"O alagamento na Rua dos Girassóis, próximo ao número 250, afeta várias casas. Necessitamos urgentemente de voluntários para ajudar na evacuação e apoio às famílias. A situação se agravou com as chuvas desta manhã.",ALTA
+Uma mulher precisa de cuidados médicos urgentes na rua perto da escola.,MEDIA
+Precisamos urgentemente de doações de alimentos no centro comunitário do Bairro Verde. Muitas famílias estão desassistidas e enfrentando fome.,ALTA
+"Na Rua das Amoras, nº 123, uma senhora idosa precisa de atendimento médico básico por conta de uma leve queda ocorrida por volta das 14h. Aparentemente, não há ferimentos graves, mas atenção médica seria adequada.",MEDIA
+Há dificuldades de transporte no bairro Itaquera devido à interdição de ruas por causa do alagamento. Os moradores precisam de transporte alternativo para chegarem ao trabalho e à escola. Sugere-se apoio imediato de voluntários e autoridades locais.,ALTA
+"Família sem transporte para abrigo, precisa de carona urgente!",BAIXA
+Um morador na Rua das Flores está com febre alta e precisamos de um paramédico para avaliação. Alguém consegue ajudar?,MEDIA
+Precisamos de doações de alimentos urgentemente no Centro Comunitário do Bairro Sol Nascente. Muitas famílias estão sem comida hoje.,ALTA
+"Na Vila Mariana, o ponto de ônibus central está sem cobertura, causando desconforto em tempos de chuva leve. Melhorias podem tornar o local mais adequado para os passageiros.",BAIXA
+"Na Vila Mariana, o acesso ao hospital local está impedido devido a alagamentos na Avenida Principal. Recomenda-se buscar rotas alternativas para emergências médicas. A situação é crítica e requer soluções rápidas.",ALTA
+"O centro de distribuição na Avenida das Flores, nº 120, apresenta falta crítica de alimentos básicos, afetando cerca de 150 famílias. A entrega de suprimentos foi interrompida devido a bloqueios viários causados por inundações na região.",ALTA
+Estamos precisando urgentemente de alimentos para as famílias da comunidade Mangueira. Muitas crianças já estão sem comida há dias. Alguém pode ajudar a organizar doações?,ALTA
+Uma pessoa precisa de atenção médica leve no parque central.,BAIXA
+"A Rua das Flores, nº 200, enfrenta dificuldades leves de transporte devido a obras na via que causam lentidão no tráfego. Não há bloqueios completos, e os atrasos são mínimos, com impacto reduzido na mobilidade local.",BAIXA
+"Na Unidade Básica de Saúde da Vila Clementino, Rua Loefgren, nº 2100, há falta crítica de médicos para atendimento. Pacientes graves aguardam assistência urgente, limitando a capacidade de resposta a emergências médicas na região.",ALTA
+"O centro comunitário do Jardim Eliza precisa urgentemente de doações de alimentos. Famílias estão em situação crítica, sem refeições há dois dias. A ajuda é necessária o mais rápido possível.",ALTA
+"Na Rua das Flores, às 9h, um veículo está bloqueando a saída das garagens. Isso está causando pequeno transtorno aos moradores. O local requer atenção para evitar inconvenientes durante o dia.",BAIXA
+"Famílias sem comida no bairro, urgência! Precisamos de alimentos agora!",ALTA
+"Famílias sem comida há dias na praça central, precisamos de doações urgentes!",ALTA
+O posto de saúde do bairro está sem termômetros e é necessário para monitoramento de febre. Alguém tem como ajudar?,BAIXA
+"Precisamos de transporte urgente para evacuar famílias, falta tempo!",ALTA
+Precisamos de apoio de transporte para levar mantimentos para a igreja Nossa Senhora da Paz. É urgente garantir que as doações cheguem a tempo.,BAIXA
+"Preciso de transporte urgente até o hospital, não consigo andar sozinho!",MEDIA
+Famílias sem comida há dias na comunidade perto do viaduto! Ajuda urgente!,ALTA
+Uma criança está com febre alta na creche Vila Esperança e não tem atendimento médico disponível. Precisamos de ajuda urgente!,ALTA
+"O tráfego de veículos na Avenida dos Bandeirantes, próximo à Vila Olímpia, está lento devido a obras na pista, causando atrasos leves no transporte público e privado na região.",BAIXA
+"A Rua João Pinheiro, no bairro Vila Mariana, está com trânsito lento devido a um semáforo quebrado, impactando o transporte público local. Equipes de manutenção já foram acionadas, mas o fluxo de veículos segue prejudicado na região.",BAIXA
+Uma criança teve uma queda forte no playground da Praça Central e precisa de atendimento médico urgente. Não há nenhum profissional de saúde por perto.,ALTA
+Uma criança machucou o joelho brincando na praça e precisa de um kit de primeiros socorros para limpar o ferimento.,BAIXA
+"Fogo em prédio na Rua Silva, precisa-se evacuar imediatamente!",ALTA
+O estoque de alimentos na comunidade Recanto está quase no fim. Precisamos de doações urgentes para evitar falta de comida nos próximos dias.,MEDIA
+"Na UBS Vila Mariana, Rua Dr. Amâncio de Carvalho, há escassez de medicamentos básicos. Pacientes relatam dificuldades no acesso a tratamentos necessários, impactando cerca de 25 atendimentos diários. Urgência em reabastecimento para evitar agravamento de saúde pública.",MEDIA
+"Na Rua das Flores, uma senhora está com uma leve indisposição desde as 10h. Parece ser algo que pode esperar, mas talvez precise de acompanhamento médico básico. Vizinhos estão atentos.",BAIXA
+"Árvore caiu na rua, bloqueando passagem. Precisa de remoção urgente!",MEDIA
+"Na última hora, habitantes do bairro Jardim São Luis enfrentam grave falta de medicamentos essenciais na Clínica Comunitária. Assistência médica urgente é necessária para atender casos críticos.",ALTA
+"Os moradores do bairro Jardim das Flores precisam de ajuda para transportar idosos ao posto de saúde, já que o ônibus comunitário quebrou. Se alguém puder ajudar, por favor, entre em contato.",MEDIA
+"Precisamos urgentemente de doações de alimentos na comunidade do Jardim Aurora, muitas famílias estão sem comida suficiente para a semana.",ALTA
+Uma pessoa precisa de atendimento médico urgente na praça central!,ALTA
+"Em Jardim Nova Era, crianças estão sem alimentação adequada desde ontem devido à falta de doações. Precisamos urgentemente de alimentos não perecíveis para suprir essa necessidade crítica.",ALTA
+Precisamos de ajuda médica urgente! Um jovem caiu e bateu a cabeça na quadra de esportes. Ele está inconsciente e não temos nenhum profissional de saúde por perto.,ALTA
+"Na Rua das Flores, ocorreu uma pane em ônibus por volta das 18h, atrasando o transporte local. Muitos moradores dependem desta rota para chegar ao trabalho. Alternativas de transporte seriam úteis até a normalização.",MEDIA
+Precisamos de transporte urgente na Avenida Paulista para evacuação de famílias em perigo!,ALTA
+"Uma pessoa está inconsciente na Rua Principal, 245, Jardim São Luiz, necessitando de assistência médica urgente. Ocorreu por volta das 10h, causando grande preocupação entre os presentes.",ALTA
+"Na Rua dos Girassóis, Vila Mariana, uma árvore caiu e bloqueou totalmente o acesso. Carros e pedestres estão impedidos de passar. A remoção é urgente para restabelecer o fluxo de trânsito e evitar acidentes.",ALTA
+Uma criança com febre alta e dificuldades respiratórias está sem atendimento médico no prédio comunitário da Vila Nova. Precisamos urgente de ajuda médica no local.,ALTA
+"Na Rua das Flores, o semáforo está fora de funcionamento desde as 10h. Isso está dificultando o tráfego de veículos, causando transtornos para pedestres e motoristas. A situação precisa de atenção urgente para evitar possíveis acidentes.",ALTA
+Precisamos urgentemente de alimentos na comunidade do Jardim São Luiz. Famílias estão sem comida desde ontem. Contamos com a solidariedade de quem puder ajudar.,ALTA
+"Socorro! Urgente! Criança presa em casa alagada, precisamos de resgate imediato!",ALTA
+"Preciso de transporte urgente para hospital, situação crítica! Alguém ajude imediatamente!",ALTA
+"Preciso de transporte para levar compras do mercado até em casa, por favor.",BAIXA
+"O centro comunitário na Avenida Paulista, nº 1234, enfrenta escassez de alimentos. Aproximadamente 50 pessoas, incluindo famílias com crianças, estão sem acesso adequado a provisões. Necessidade de reposição imediata para evitar agravamento da situação.",MEDIA
+"Famílias no bairro Novo Horizonte estão precisando de doações de alimentos básicos. Os estoques do centro comunitário estão quase vazios, precisamos de ajuda o mais rápido possível!",MEDIA
+Uma criança está com febre alta e dificuldade para respirar no centro comunitário do bairro. Precisamos de um médico urgentemente!,ALTA
+"Preciso de socorro médico na Avenida Paulista, alguém está ferido, situação urgente!",ALTA
+Pessoas idosas estão tendo dificuldades para chegar ao posto de vacinação no bairro Santo Antônio. Precisamos de transporte para ajudar no deslocamento delas.,MEDIA
+"Na UBS da Av. Paulista, nº 157, estoque de insulina esgotado. Cerca de 30 pacientes diabéticos sem medicação necessária. Necessidade urgente de reposição imediata.",ALTA
+"Idoso com febre alta precisa de atendimento rápido na Rua das Flores, 102.",MEDIA
+"Fumaça saindo de edifício, risco de incêndio! Evacuação urgente!",ALTA
+"Preciso de transporte urgente para sair da área inundada, água subindo rápido!",MEDIA
+Precisamos urgentemente de um médico para atender uma criança com febre alta no Centro Comunitário da Vila Nova. Algum profissional disponível para ajudar?,MEDIA
+"Hospital na Avenida Paulista, nº 1578, enfrenta escassez crítica de suprimentos médicos essenciais. Pacientes em estado grave aguardam atendimento urgente, necessitando de medicamentos e equipamentos básicos para suporte vital.",ALTA
+"Na Rua Oliveira, Jardim das Flores, moradores mencionaram falta de aspirina na farmácia local. A previsão de reabastecimento é amanhã à tarde. Impacto leve, sem urgências relatadas.",BAIXA
+A comunidade está sem alimentos básicos no abrigo do centro comunitário. Precisamos de doações urgentemente para atender famílias necessitadas.,ALTA
+"Um trecho da Rua dos Crisântemos, em Santo André, está com trânsito intenso devido a obras, causando lentidão. Recomendo saída antecipada para compromissos a partir das 17h.",BAIXA
+Inundação atingindo casas no bairro. Pessoas presas! Precisamos de ajuda urgente!,ALTA
+"Precisamos de assistência médica no Parque das Flores; tem pessoas com sintomas de gripe sem atendimento. Quem puder ajudar, por favor, venha rápido!",MEDIA
+Preciso de ajuda para levar algumas doações para o centro comunitário no bairro Sant Anna. Estamos sem transporte no momento.,BAIXA
+Precisamos de comida urgente para famílias no bairro Jardim Glória!,ALTA
+"Na UBS do Jardim São Luiz, há uma crescente demanda por atendimentos devido a casos de gripe. Seria útil aumentar o apoio médico especialmente entre 10h e 16h para atender a todos adequadamente.",MEDIA
+Precisamos de transporte para levar doações do centro comunitário até a ONG local. Alguém pode ajudar?,BAIXA
+"Na unidade de saúde do Jardim São Luís, há falta de material de limpeza, afetando a manutenção básica de higiene. Isso pode comprometer serviços não críticos, mas requer atenção para evitar agravamento.",BAIXA
+"Na Rua dos Andradas, nº 456, há um grande acúmulo de lixo bloqueando a via, impossibilitando a passagem de serviços de emergência e transporte público. A situação afeta diretamente a mobilidade local e a saúde pública, exigindo limpeza imediata.",ALTA
+Famílias sem comida na Travessa Santo André! Ajuda urgente agora!,ALTA
+Precisamos de ajuda para organizar doações de roupas e sapatos para moradores deslocados na comunidade do Parque dos Cedros. A situação está complicada e qualquer apoio é bem-vindo.,MEDIA
+"Pessoal, o estoque de alimentos do centro comunitário está esgotando rápido e muitas famílias dependem dele. Precisamos de doações urgentes para ajudar a manter todos alimentados.",ALTA
+"Na Vila Nova, uma pessoa idosa precisa urgentemente de atendimento médico, mas o acesso está bloqueado por causa das chuvas. Ajuda médica imediata é essencial. Situação crítica desde as 6h da manhã de hoje.",ALTA
+"Preciso de transporte para sair do centro, ônibus lotado!",BAIXA
+"Precisa-se de medicamentos básicos no Posto de Saúde do Jardim das Flores. Estoques limitados e alta demanda observada. Os eventos ocorrem no período da tarde, afetando principalmente idosos e crianças locais.",MEDIA
+"Preciso de um médico urgente na rua das Flores, uma criança caiu e está inconsciente. A situação é crítica e o socorro ainda não chegou.",ALTA
+"Não conseguimos sair da área, sem transporte. Precisamos de ajuda urgente!",ALTA
+"Urgente! Criança machucada em queda, precisa de atendimento médico agora!",ALTA
+Famílias sem comida perto do parque central! Ajuda urgente!,ALTA
+Uma criança sofreu uma queda grave na praça central e precisa urgentemente de atendimento médico; ainda não há socorro presente.,ALTA
+Uma pessoa com leve dor de cabeça precisa de atendimento no posto de saúde do bairro. Alguém disponível para ajudar?,BAIXA
+"A Rua das Flores, em Santo Amaro, está com tráfego bloqueado devido a um acidente. A obstrução impede o acesso de veículos de socorro, impactando diretamente na logística de assistência a 20 residências na área.",ALTA
+Precisamos urgente de transporte na Av. Paulista para evacuar pessoas. Movimentação difícil.,ALTA
+"Na Vila Nova, há necessidade urgente de cobertores e roupas quentes para famílias em situação de rua. A distribuição pode ocorrer no final da tarde, na praça principal. Sua contribuição pode amenizar o frio noturno.",MEDIA
+"Uma senhora precisa de consulta médica para sintomas leves de resfriado no bairro Jardim América. Disponível para atendimento domiciliar entre 10h e 14h. A situação está sob controle, mas requer atenção breve.",BAIXA
+"Precisamos de comida no centro comunitário, a situação está piorando!",ALTA
+"Na Rua Coronel Xavier de Toledo, nº 200, um deslizamento bloqueia a principal via de acesso. Aproximadamente 25 famílias estão isoladas, incluindo grávidas e crianças, sem transporte disponível para evacuação urgente.",ALTA
+Estamos com falta de transporte para os idosos irem ao centro médico no bairro Vila Celeste. Precisamos de ajuda para garantir que eles recebam atendimento.,MEDIA
+"Na Praça Central, as luzes estão apagadas desde ontem à noite. Isso pode afetar a segurança dos pedestres. Um reparo é necessário, mas não urgente. É aconselhável caminhar com cuidado à noite até a situação ser resolvida.",BAIXA
+"Precisamos urgentemente de caronas solidárias para levar idosos do bairro Nova Esperança às consultas médicas. Quem puder ajudar, por favor, manifeste-se!",MEDIA
+"Tem um jovem com febre alta e falta de ar no posto de saúde do bairro, precisamos urgente de atendimento médico.",ALTA
+Alguém caiu e está inconsciente no Parque da Juventude! Precisamos de ajuda médica urgente!,ALTA
+"No bairro de São Mateus, crianças estão com sintomas de gripe e o posto de saúde local está muito cheio. Precisa-se de apoio médico auxiliar durante o horário da tarde para atender os casos mais leves.",MEDIA
+"O centro comunitário do Jardim São Luís está sem alimentos essenciais desde ontem. Famílias vulneráveis estão sendo impactadas, e são necessárias doações urgentes para garantir as refeições dos próximos dias.",ALTA
+"Moradores da Rua das Flores, 15, estão sem água há três dias, causando dificuldades severas de higiene e alimentação. A situação demanda intervenção urgente e apoio dos voluntários o quanto antes.",ALTA
+Árvore caída bloqueando saída da Avenida Central. Precisa de remoção urgente.,BAIXA
+Criança com febre alta no parque central. Precisa de ajuda médica urgente!,MEDIA
+"A escola municipal na Rua das Palmeiras, nº 215, está sem acesso à água potável devido a uma falha no abastecimento local, afetando cerca de 150 alunos e 20 funcionários.",MEDIA
+"Cidade Dutra, Unidade Básica de Saúde enfrenta falta intermitente de materiais médicos descartáveis. Estoque atual atende demandas não críticas, mas reabastecimento é necessário para evitar futuramente dificuldades em atendimentos.",BAIXA
+Estamos sem comida no abrigo. Precisamos de alimentos básicos urgentemente!,MEDIA
+"Precisamos de comida urgente no abrigo do Jardim Ângela, pessoas passando fome!",ALTA
+"Precisamos de transporte urgente para levar alimentos ao centro comunitário do bairro, pois a entrega atrasou e a comunidade está aguardando.",MEDIA
+"Preciso de primeiros socorros para ferimento leve, perto da praça central.",BAIXA
+"O centro comunitário no Jardim São Paulo está com estoque de alimentos reduzido, impactando 50 famílias. Doações são bem-vindas até o fim do dia para garantir refeições adequadas.",MEDIA
+Um jovem está com febre alta na praça do bairro e não conseguimos contato com um médico. Precisamos de ajuda médica moderada.,MEDIA
+"Na Rua das Flores, número 123, há um idoso com dificuldade respiratória desde ontem à noite. Ele precisa de atendimento médico, mas não tem transporte disponível. Voluntários podem ajudar a levá-lo ao hospital mais próximo.",MEDIA
+Preciso de transporte urgente para um idoso doente na Rua Santos. Ele não consegue se mover!,MEDIA
+"Na Rua das Flores, uma árvore caiu após a tempestade e está bloqueando toda a via, dificultando a passagem. Isso ocorreu por volta das 15h e precisa de remoção urgente para que veículos possam circular novamente.",ALTA
+"Na região da Avenida Paulista, próximo ao número 1578, há uma interrupção significativa no fornecimento de água, afetando cerca de 50 residências. Essa situação compromete a higiene básica, criando um risco crescente de doenças.",ALTA
+"Na UBS Jardim Paulista, há aumento no fluxo de pacientes com sintomas gripais. Recursos médicos estão sendo pressionados; assistência adicional pode ser necessária nas próximas horas.",MEDIA
+"Na Unidade de Saúde do Jardim Helena, os estoques de medicamentos essenciais estão quase esgotados. A falta de insumos compromete o atendimento de 150 pacientes diários, gerando risco de agravamento de condições de saúde não controladas.",ALTA
+Estamos precisando de alimentos urgentes para as famílias no abrigo da igreja São Rafael. Muitos não têm o que comer hoje.,ALTA
+Precisamos de transporte urgente para um grupo preso na estação central!,MEDIA
+"No bairro Jardim Paulista, uma árvore bloqueia a Rua Estados Unidos, impossibilitando a passagem de veículos. Isso afeta o transporte local e causa grande transtorno, exigindo remoção urgente para liberar o tráfego.",ALTA
+"Interdição total da Avenida dos Bandeirantes, altura do número 1500, devido a um deslizamento de terra. Bloqueio impede acesso de veículos de emergência e retira rota crítica de escoamento, afetando área hospitalar próxima.",ALTA
+Famílias sem comida no bairro. Precisamos de mantimentos urgentes!,MEDIA
+"Avenida Guarapiranga com trânsito bloqueado devido a alagamento, impossibilitando o transporte de suprimentos. Aproximadamente 20 famílias necessitam de assistência logística para receberem alimentos e medicamentos.",MEDIA
+Uma pessoa se sentiu mal próximo à padaria. Precisa de cuidados básicos.,BAIXA
+Uma criança com leve febre precisa de avaliação médica na Rua dos Jacarandás. Algum voluntário pode ajudar?,BAIXA
+"Estamos sem comida no abrigo, precisamos de mantimentos urgentemente!",MEDIA
+"Na Rua das Acácias, uma senhora está com forte dor no peito desde esta manhã. A situação é urgente e requer assistência médica imediata para avaliação e possível tratamento.",ALTA
+O parque do bairro precisa de voluntários para ajudar na limpeza após a tempestade de ontem. Interessados podem comparecer a partir das 9h para contribuir na remoção de galhos e lixo.,BAIXA
+"Uma praça no bairro Jardim Paulista precisa urgentemente de limpeza após uma forte tempestade que causou entupimento dos bueiros e alagamentos. Isso está afetando a mobilidade dos moradores, especialmente entre 10h e 17h.",ALTA
+"Semana passada, no bairro Jardim das Flores, idosos relataram falta de medicamentos para pressão. Farmácias locais estão com estoque baixo. Ajuda com doações seria bem-vinda, principalmente durante a tarde.",MEDIA
+"Precisamos de carona para dois idosos até o hospital, pode ajudar?",BAIXA
+"Há um aumento de casos de febre alta e tosse no bairro Jardim São Paulo, afetando principalmente crianças. A assistência médica está sobrecarregada na Unidade Básica de Saúde local. Atendimento adicional é necessário urgentemente.",ALTA
+Uma criança com febre leve na creche do bairro precisa de orientação médica para evitar agravamento.,BAIXA
+Família na Rua das Flores precisa de atendimento médico urgente; criança com febre alta sem remédios disponíveis em casa.,ALTA
+"Avenida Presidente Wilson, São Paulo, apresenta bloqueio total devido a inundações, interrompendo transporte de suprimentos urgentes para hospitais; aproximadamente 20 toneladas de carga estão em trânsito. Necessidade imediata de desvio logístico.",ALTA
+Estamos sem alimentos no centro comunitário Vila Esperança e muitas famílias estão sem o básico. Precisamos de doações urgentes para alimentar crianças e idosos.,ALTA
+"Na Vila Mariana, idosos precisam de assistência médica devido ao aumento de casos de gripe. O suporte é necessário especialmente à tarde. A presença de voluntários pode ajudar a aliviar a situação.",MEDIA
+Uma vizinha idosa está com febre alta e precisa de consulta médica. Não há clínicas abertas nas proximidades. Podemos ajudar?,MEDIA
+Família precisa de transporte urgente para buscar medicação na clínica do bairro. Não há ônibus fazendo o trajeto hoje.,MEDIA
+"O parque comunitário no bairro de Santana está com acúmulo de lixo, afetando o uso e a segurança. Seria importante organizar um mutirão de limpeza, especialmente nos fins de semana, para prevenir riscos à saúde e melhorar o ambiente.",ALTA
+Urgente! Criança com febre alta e sem atendimento no parque central.,ALTA
+Homem com dor de cabeça leve perto da praça. Precisa de analgésico.,BAIXA
+Precisamos de voluntários para ajudar na organização do bazar comunitário amanhã.,BAIXA
+"Uma criança está com febre alta no posto de saúde da Vila Nova, mas não há pediatra disponível no momento.",MEDIA
+Ônibus não passou no horário e tem gente esperando há horas na praça do bairro. Algum motorista poderia ajudar a transportar o pessoal?,BAIXA
+Famílias da Rua das Flores precisam de doações de alimentos; estoque das cestas básicas acabou e crianças estão sem refeição garantida. Precisamos de ajuda urgente para reabastecer.,MEDIA
+"Precisamos de transporte urgente para levar famílias do bairro São Luiz até o centro comunitário que oferece assistência. Quem puder ajudar, por favor, entre em contato.",MEDIA
+"Necessitamos de transporte até o posto médico mais próximo, somos três pessoas presas.",MEDIA
+"O parque na Rua das Flores está com algumas áreas sem iluminação à noite. Pode ser necessário verificar as lâmpadas, pois isso tem gerado desconforto em quem utiliza o espaço após as 18h.",BAIXA
+"Preciso de ajuda médica para uma criança com febre alta na Rua das Flores, urgente!",MEDIA
+O centro comunitário da Vila Esperança está ficando sem alimentos para as famílias carentes. Precisamos de doações de comida para ajudar quem mais precisa.,MEDIA
+"Há um vazamento de gás na Rua Almeida, perigo de explosão. Evacuação urgente necessária!",ALTA
+"A comunidade no bairro de Itaquera enfrenta grave escassez de alimentos, afetando diretamente cerca de 50 famílias. Pedimos doações urgentes para entrega na Associação Comunitária até o final do dia.",ALTA
+Preciso de ajuda médica na Praça Central. Pessoa com febre alta.,MEDIA
+Um vizinho está com febre alta e precisa de avaliação médica. Ele está no prédio da Avenida Central e não tem transporte para ir ao hospital.,MEDIA
+"Precisamos de ajuda médica na Praça Central, pessoa com febre alta e sem atendimento.",MEDIA
+"Uma criança caiu e machucou o braço no parque, precisa de atendimento médico.",MEDIA
+Os moradores do prédio na Rua das Flores estão sem água há dois dias. Precisamos de ajuda urgente para resolver isso e evitar problemas maiores.,ALTA
+"Uma criança machucou o braço na pracinha do bairro e precisa de atendimento médico, alguém pode ajudar?",MEDIA
+Uma criança caiu na praça central durante a brincadeira e parece ter machucado a perna. Precisamos de atendimento médico urgente!,ALTA
+"Na Unidade Básica de Saúde Jardim Helena, falta de médicos está afetando o atendimento de pacientes crônicos. Aproximadamente 30 pessoas aguardam consulta, incluindo gestantes, necessitando de suporte médico contínuo.",MEDIA
+Há várias crianças com sintomas de gripe na creche do bairro e não temos médico disponível. Precisamos de ajuda para evitar que a situação piore.,MEDIA
+"Uma criança caiu de bicicleta na praça do bairro, parece ter machucado o braço. Algum médico por perto para dar uma olhada?",BAIXA
+"Foi rompido um cabo de eletricidade na Rua Central, perigo de choque.",MEDIA
+"A Vila Maria está enfrentando escassez de alimentos, afetando aproximadamente 50 famílias. O acesso à área é limitado devido à infraestrutura viária precária, exigindo suporte imediato para fornecimento de recursos essenciais.",ALTA
+"Rua alagada! Pessoas ilhadas, precisam de resgate urgente!",ALTA
+"O Centro de Saúde Jardim Primavera está sem suprimentos médicos essenciais, afetando atendimento a 30 pacientes, incluindo casos graves. Localizado na Rua das Flores, nº 560, a situação compromete a assistência adequada e requer intervenção imediata.",ALTA
+Uma mulher precisa de atendimento médico urgente na praça central! Sem atendimento ainda!,ALTA
+"Uma árvore caiu na Rua das Flores, Jardim dos Lírios, bloqueando completamente a via. Precaução ao trafegar pelo local. Solicita-se ajuda para remoção, visando liberar o trânsito o mais rápido possível.",ALTA
+"Na comunidade do Jardim das Flores, a distribuição de alimentos está quase esgotada, impactando várias famílias. Urge apoio com doações de mantimentos hoje até às 18h, para evitar desabastecimento significativo.",ALTA
+"Precisamos de transporte urgente para evacuar área alagada, situação crítica!",ALTA
+"Uma criança com febre baixa em casa, precisa de orientação médica.",BAIXA
+Preciso de transporte urgente na Rua 7 de Setembro. Não tenho como sair daqui.,MEDIA
+"Posto médico na Avenida Paulista, 1234, enfrenta falta temporária de insumos básicos como bandagens e antissépticos. Impacto limitado no atendimento devido à disponibilidade de alternativas próximas na região central.",BAIXA
+"Na Rua das Flores, nº 150, uma pessoa precisa de ajuda médica urgente. Foi relatada queda com possível fratura, e assistência imediata é necessária. O incidente aconteceu por volta das 10h da manhã.",ALTA
+Precisamos de transporte urgente para levar pessoas ao abrigo mais próximo! Muitos estão presos sem saída!,MEDIA
+"Na Avenida Paulista, altura do nº 1500, há congestionamento significativo devido à interdição de via principal, impactando o transporte público e privado. A situação afeta principalmente o acesso a hospitais e escolas na região, demandando solução rápida para fluidez.",MEDIA
+"A linha de ônibus 235 na Vila Mariana tem atrasos frequentes à tarde, dificultando o deslocamento dos moradores. A situação parece administrável, mas seria útil monitorar ou ajustar os horários para melhor atender os passageiros.",BAIXA
+"O Centro Comunitário São João, na Zona Leste, está com estoque de alimentos crítico. Famílias necessitam de doações urgentes. Por favor, considere ajudar ainda hoje para garantir refeições para todos. Agradecemos a solidariedade da comunidade.",ALTA
+Precisamos urgentemente de transporte para levar pessoas ao abrigo mais próximo.,MEDIA
+"Na Rua do Sol, próximo ao número 150, uma senhora idosa parece precisar de assistência médica para sintomas leves. Ocorreu por volta das 15h e ela está acompanhada, mas procura uma avaliação médica básica.",MEDIA
+"Na clínica do bairro Tatuapé, pacientes esperam por consultas desde as 9h. Há necessidade de médicos voluntários para agilizar o atendimento e evitar longas esperas.",MEDIA
+Muitas famílias no bairro Jardim das Flores estão sem alimentos básicos. Precisamos de doações urgentes para ajudar essas pessoas.,ALTA
+Preciso de ajuda urgente para um senhor com dificuldades respiratórias no centro comunitário do bairro. Não há equipe médica disponível no local.,ALTA
+Um morador do terceiro andar do prédio na Rua das Flores está com febre alta há dois dias e precisa de um médico para diagnóstico.,MEDIA
+"Criança com febre leve no centro de acolhimento, precisa de verificação médica.",BAIXA
+"Precisamos de comida na Rua Central, fome aumentando. Ajuda urgente!",MEDIA
+"Na Avenida Paulista, altura do número 1500, ocorre bloqueio devido a obras emergenciais. Necessário desvio de transporte para evitar congestionamento. Impacto moderado na circulação, afetando principalmente o transporte público.",MEDIA
+"Na Avenida Paulista, nº 1578, um acidente bloqueou a via principal, impactando a circulação de transporte público e privado. Aproximadamente 50 pessoas enfrentam atrasos significativos, necessitando de rotas alternativas para evitar congestionamento.",MEDIA
+"No bairro Jardim Florido, famílias enfrentam escassez severa de alimentos. Donativos são urgentemente necessários, especialmente itens não perecíveis. O problema foi observado hoje pela manhã e está afetando gravemente a comunidade local.",ALTA
+Um morador da Rua das Flores está sem transporte para uma consulta médica importante. Alguém poderia ajudar com carona ou informações sobre transporte público?,BAIXA
+"No bairro de Jardim das Flores, uma senhora necessita de consulta médica domiciliar devido a mal-estar persistente. É importante que a visita ocorra no início da tarde, pois a situação vem se prolongando desde ontem.",MEDIA
+"O centro comunitário na Av. Paulista, nº 1234, enfrenta escassez de alimentos, afetando cerca de 50 pessoas, incluindo famílias com crianças. Estoque de alimentos esgotado em três dias se não houver reposição imediata.",MEDIA
+"Maternidade no Hospital São José, Rua das Flores 120, enfrenta falta crítica de suprimentos médicos essenciais. Impacto significativo na capacidade de atendimento a parturientes e recém-nascidos.",ALTA
+Famílias no bairro Jardim São Paulo enfrentam escassez de alimentos. Estoques esgotados no centro comunitário local. Doações urgentes são necessárias para aliviar a situação. Disponibilidade para receber ajuda hoje até às 18h.,ALTA
+Precisamos urgentemente de transporte para evacuar famílias da área inundada perto do Parque Central!,ALTA
+"Na comunidade do Jardim das Flores, o centro comunitário precisa de frutas e legumes frescos para o almoço de amanhã. Seria ótimo receber doações até às 10h para preparar as refeições com qualidade.",BAIXA
+"A Unidade de Saúde do Jardim das Flores enfrenta escassez de equipamentos médicos essenciais, comprometendo o atendimento a pacientes críticos. Local: Rua das Orquídeas, nº 210. Fornecimento urgente necessário para evitar agravamento do quadro clínico de diversas pessoas.",ALTA
+"Na Rua das Flores, uma família precisa de medicamentos básicos para tratamento de febre e resfriado. A situação é urgente, mas não crítica, e ajuda com doações ou orientação médica seria muito valiosa nas próximas horas.",MEDIA
+Precisamos de transporte imediato para levar idosos ao abrigo seguro!,MEDIA
+Árvore caída bloqueando a rua perto do mercado; passagem impossível!,BAIXA
+"Pessoal, perto da praça central, a sinalização de trânsito foi derrubada. Pode causar acidentes se alguém não fizer algo rápido. Vamos tentar organizar até arrumarem?",MEDIA
+"A Unidade de Saúde do Jardim das Flores registra uma alta demanda de consultas médicas. A espera tem aumentado, especialmente entre 10h e 14h. Voluntários podem auxiliar no atendimento ou organização para melhorar a situação.",MEDIA
+"Em São Bernardo do Campo, o centro comunitário precisa urgentemente de alimentos básicos para famílias. A demanda aumentou significativamente esta semana e a previsão é de escassez em dois dias se não receberem doações imediatas.",ALTA
+"O centro comunitário do Jardim Primavera está com estoque crítico de alimentos. Precisamos de doações urgentes, especialmente arroz e feijão, para atender as famílias locais. O movimento de pessoas aumentou significativamente nesta semana.",ALTA
+"O posto de saúde na Avenida Paulista, nº 1200, enfrenta escassez de insumos médicos, incluindo seringas e curativos, comprometendo o atendimento básico. Necessidade urgente de reabastecimento para normalizar operações.",MEDIA
+Criança com tosse leve no abrigo. Precisa de avaliação médica.,BAIXA
+"Preciso de transporte urgente na Rua Carvalho, estou preso e em perigo, por favor ajudem!",ALTA
+"Explosão em prédio residencial, muitos feridos! Precisamos de ajuda imediata!",ALTA
+"Há um vazamento de água importante na Rua das Flores, próximo ao número 150, desde a madrugada. Moradores relatam grandes perdas de água e preocupações com o fornecimento. Intervenção rápida é necessária.",ALTA
+"O hospital São Paulo, situado na Rua Pedroso de Morais, nº 1200, enfrenta escassez de suprimentos médicos essenciais, afetando o atendimento de emergência para uma média de 50 pacientes por dia.",ALTA
+"Na UBS Jardim das Flores, Rua das Rosas, há escassez de materiais médicos básicos, comprometendo o atendimento de rotina e urgência para 50 pacientes/dia, incluindo idosos e crianças.",MEDIA
+Precisamos urgentemente de comida no abrigo próximo ao parque! Desabastecidos!,ALTA
+Precisamos urgentemente de transporte para evacuar moradores do bairro Jardim Esperança devido a uma enchente. Alguns estão ilhados e em risco. Ajuda imediata é essencial!,ALTA
+Um grupo de idosos está sem atendimento médico na praça Central. Precisamos de apoio urgente para verificar a situação.,MEDIA
+"Estamos ilhados por alagamento na Avenida Central, precisamos de transporte urgente.",MEDIA
+Criança com febre leve precisa de avaliação médica na Rua das Flores.,BAIXA
+Estamos com falta de comida no centro comunitário do bairro e muitas famílias estão sem refeições. Precisamos urgentemente de doações de alimentos.,ALTA
+"Na Rua das Flores, próximo ao número 45, há uma obstrução crítica devido a um acidente. Está causando grandes congestionamentos e impedindo a passagem de veículos essenciais, como ambulâncias. A situação exige ação imediata para liberação da via.",ALTA
+Há várias pessoas sem transporte para o hospital no bairro Jardim das Flores. Precisamos de voluntários com veículos para ajudar no deslocamento urgente.,MEDIA
+Estamos com falta de alimentos no centro comunitário Vila Esperança. Muitas famílias dependem dessas doações e precisam de ajuda urgente.,ALTA
+"Na UBS Vila Mariana, falta de medicamentos essenciais compromete o atendimento a pacientes com doenças crônicas. Necessidade urgente de reabastecimento para evitar descontinuidade no tratamento. Local: Rua Domingos de Morais, nº 2121.",ALTA
+"Na Rua das Flores, uma pessoa idosa precisa de ajuda com a medicação para hipertensão. Seria ideal se alguém pudesse auxiliar hoje à tarde.",BAIXA
+"Uma criança com tosse leve no parque comunitário precisa de uma avaliação médica, caso alguém disponível possa ajudar.",BAIXA
+"Na comunidade Jardim Peri, falta de alimentos essenciais está afetando cerca de 50 famílias. Relatos indicam que a entrega de suprimentos foi interrompida devido a bloqueios na Rua da Fraternidade, 210.",ALTA
+"Famílias do bairro estão precisando de alimentos, pois a última doação foi insuficiente. Alguém pode ajudar?",MEDIA
+"Ônibus na região de Santo Amaro não estão circulando devido a enchente nesta manhã, causando dificuldades de locomoção para trabalhadores e estudantes. Alternativas de transporte ou ajuda urgente são necessárias.",ALTA
+"A Unidade Básica de Saúde do Jardim Paulista encontra-se temporariamente sem suprimentos de material de limpeza, impactando a manutenção higiênica do ambiente, mas sem afetar o atendimento médico. Necessidade de reposição para garantir padrões de higiene.",BAIXA
+"Precisamos de voluntários para ajudar no transporte de doações do centro comunitário para o abrigo local. Os veículos estão ocupados, e é uma ajuda essencial para hoje.",BAIXA
+"Precisamos de um médico na Rua Central, pessoa ferida precisando de socorro imediato!",ALTA
+"O posto de saúde na Avenida Paulista, nº 900, enfrenta falta temporária de material básico para curativos, impactando atendimentos de baixa complexidade. Estoques devem ser repostos em 48 horas para manutenção do serviço.",BAIXA
+"Um ônibus quebrou na Av. Paulista às 17h, causando transtorno no trânsito e deixando passageiros sem alternativa de transporte. Precisamos de veículos para oferecer suporte aos afetados.",ALTA
+"Na UBS Vila Maria, há falta de insumos médicos essenciais para pacientes com doenças crônicas. Aproximadamente 50 pacientes podem ser afetados, incluindo crianças. Localização: Avenida Guilherme Cotching, 1420.",ALTA
+O galpão comunitário do bairro precisa de voluntários para ajudar na limpeza e organização dos suprimentos. A situação é urgente para garantir a segurança e o funcionamento adequado.,ALTA
+"Na manhã de hoje, próximo à Estação Santo Amaro, o transporte público está sobrecarregado, causando atrasos para quem vai ao trabalho. Sugere-se buscar alternativas para evitar mais congestionamentos.",MEDIA
+"Uma criança no playground do Parque da Lagoa machucou o braço, precisamos de assistência médica básica para garantir que está tudo bem.",MEDIA
+"No Jardim Paulistano, famílias estão sem alimentos básicos. A doação é urgente para evitar riscos à saúde. Entregas podem ser feitas na comunidade local, preferencialmente até o final do dia.",ALTA
+"Na Rua das Flores, pessoas estão sem transporte devido à falta de ônibus desde ontem à tarde, especialmente durante o horário de pico. Isso afeta trabalhadores e estudantes que dependem do transporte público. Sua ajuda pode fazer a diferença.",ALTA
+"A escola comunitária do Jardim Santo André está com estoque de alimentos baixo, afetando as refeições dos alunos. Precisamos de doações urgentes para atender cerca de 100 crianças nas próximas semanas.",MEDIA
+"Posto de saúde do Jardim São Luiz, na Rua Antônio Barroso, enfrenta escassez de medicamentos essenciais e falta de médicos. Cerca de 50 pacientes aguardam atendimento urgente, agravando riscos à saúde pública na região.",ALTA
+"Precisamos de transporte urgente para levar suprimentos para o centro comunitário do bairro, há muitas pessoas aguardando apoio.",MEDIA
+"Um carro quebrou na entrada da comunidade e precisa de reboque para liberar a passagem, mas não é urgente.",BAIXA
+"A Unidade Básica de Saúde Jardim das Flores está com elevado número de pacientes e poucos médicos. Precisam de apoio para reduzir os tempos de espera, especialmente no período da tarde.",MEDIA
+Famílias na comunidade do Bairro Esperança estão sem alimentos básicos para o jantar. Precisamos de doações urgentes para garantir que todos tenham uma refeição hoje.,ALTA
+"No condomínio Parque das Flores, um morador sofreu queda grave e precisa de atendimento médico urgente, mas os socorristas ainda não chegaram.",ALTA
+"No bairro Jardim Paulista, a comunidade precisa urgentemente de alimentos. O estoque está quase esgotado e impacta cerca de 100 famílias. A situação foi observada hoje pela manhã e requer apoio imediato para evitar maiores dificuldades.",ALTA
+"Há dificuldade de transporte público no bairro São Lucas, afetando trabalhadores e estudantes. Linhas de ônibus estão operando com atrasos significativos, especialmente nos horários de pico. Ajuda para transporte alternativo seria bem-vinda.",ALTA
+"O parque comunitário do bairro está precisando de voluntários para a limpeza e organização após o evento de ontem. As atividades podem ser feitas hoje à tarde, ajudando a restaurar o espaço para todos.",MEDIA
+"No bairro de Santana, idosos na Rua Pedro Doll necessitam de medicamentos básicos. Visitas médicas poderiam ser organizadas, principalmente durante a tarde, para garantir assistência. O impacto é moderado, mas o apoio imediato é benéfico.",MEDIA
+"No bairro de São Mateus, várias famílias estão sem acesso a alimentos desde a última enchente. Necessitamos urgentemente de doações de alimentos não perecíveis para suprir essa necessidade crítica.",ALTA
+"O centro comunitário do Jardim das Flores precisa de doações de alimentos não perecíveis, pois a demanda aumentou. As entregas podem ser feitas entre 9h e 17h.",MEDIA
+"Familia precisa de transporte urgente para hospital, situação crítica!",ALTA
+O centro comunitário do Jardim das Flores está sem alimentos para distribuir às famílias carentes. Precisamos de doações urgentes para ajudar as pessoas que dependem dessa assistência.,ALTA
+Um senhor idoso se queixou de dor no peito na praça ao lado da padaria e precisa de ajuda médica moderada.,MEDIA
+"Na Avenida Paulista, próximo ao número 1500, um acidente de trânsito está bloqueando duas faixas, impactando o deslocamento de ambulâncias e comprometendo o transporte urbano na região. Mediante ao tráfico intenso, há risco de atrasos significativos na prestação de serviços de emergência.",MEDIA
+"Precisamos urgentemente de transporte para levar doações ao centro comunitário do bairro, pois estamos sem veículos disponíveis e a situação é crítica.",ALTA
+"Na Clínica São Lucas, Vila Mariana, há falta de medicamentos essenciais, impactando pacientes críticos. Ajuda urgente é necessária para garantir os cuidados adequados. A situação deve ser resolvida o quanto antes.",ALTA
+Precisamos urgentemente de transporte para levar moradores ilhados no Jardim Primavera. Acesso difícil e sem opções seguras de saída.,ALTA
+Precisamos de transporte urgente para três pessoas na Rua das Flores.,BAIXA
+"Urgente: precisamos de transporte para evacuar um grupo de pessoas do centro, situação perigosa!",ALTA
+"Preciso de transporte para sair do bairro na próxima hora. Por favor, ajudem!",BAIXA
+Precisamos de transporte para levar doações ao centro comunitário.,BAIXA
+"Alguém caiu na rua e está sangrando, precisa de ajuda médica urgente!",ALTA
+Precisamos de transporte urgente para idosos no centro comunitário! Alguém pode ajudar?,ALTA
+"Pessoal, o ônibus do bairro está atrasando muito e tem idosos esperando no ponto sem alternativa. Alguém pode ajudar com carona?",BAIXA
+"Precisamos de assistência médica urgente no posto de saúde do bairro, há crianças com sintomas de infecção respiratória sem atendimento adequado.",ALTA
+"Uma árvore caiu na Rua das Flores, bloqueando parte da via. Embora não haja feridos, a passagem de veículos está parcialmente comprometida. Alguma assistência para remoção seria bem-vinda por volta das 14h.",BAIXA
+"Famílias sem comida na comunidade da Rua das Laranjeiras, ajuda urgente!",ALTA
+"No bairro Butantã, um grupo de idosos tem dificuldade em acessar o posto de saúde por falta de transporte. Voluntários podem ajudar organizando caronas durante o horário comercial.",BAIXA
+"Na praça da Vila Mariana, o playground está danificado. Crianças continuam brincando lá e podem se machucar. Precisa-se de reparos urgentes para garantir segurança. A situação foi observada nesta manhã por volta das 10h.",MEDIA
+Precisamos de transporte na Rua da Esperança para evacuar pessoas idosas.,MEDIA
+"Na Avenida das Nações Unidas, próximo ao número 5000, um congestionamento bloqueia a rota de veículos de socorro, afetando o tempo de resposta para atendimento. Situação impacta o transporte de recursos essenciais no local.",MEDIA
+Urgente! Criança com febre alta e convulsões na creche do bairro. Precisamos de um médico imediatamente!,ALTA
+"O parquinho da praça na Vila Mariana precisa de manutenção na cerca, que está danificada e pode ser um risco leve para crianças. Idealmente, reparos seriam feitos nesta semana.",BAIXA
+"O centro de saúde na Rua das Flores, nº 123, enfrenta escassez de suprimentos médicos básicos, incluindo curativos e analgésicos, impactando no atendimento a pacientes não emergenciais. Situação precisa ser resolvida para evitar agravamento.",MEDIA
+"Um vizinho caiu e machucou o braço aqui na Rua das Flores, precisa de avaliação médica o quanto antes.",MEDIA
+Uma criança está com febre e não temos remédios. Precisamos de ajuda médica!,MEDIA
+"Estrada alagada, preciso de transporte urgente para o hospital. Por favor, ajudem!",MEDIA
+"Uma senhora na Rua Oliveira Lima, 123, precisa de medicamentos para hipertensão. Ela solicita ajuda ainda hoje, pois está sem tratamento desde ontem à noite. Caso alguém possa ajudar, seria muito útil.",MEDIA
+"Um morador precisa de transporte para levar doações ao centro comunitário do bairro, mas está sem carro. Alguém pode ajudar?",BAIXA
+"A Avenida dos Bandeirantes apresenta bloqueio parcial devido a acidente, impactando fluxo de veículos. Necessidade de otimização de rotas alternativas para escoamento do tráfego, afetando principalmente transporte de mercadorias na zona sul de São Paulo.",MEDIA
+"Na Avenida Paulista, o trânsito está lento devido a obras. Recomendo planejarem viagens com antecedência, especialmente entre 14h e 18h, para evitar atrasos significativos. O transporte público pode ser uma alternativa mais eficiente nesse período.",MEDIA
+Precisamos de transporte para levar idosos ao centro comunitário do bairro. Eles não têm como ir sozinhos e precisam de ajuda urgente para chegar lá.,MEDIA
+Necessitamos de atendimento médico na Rua Principal. Pessoa com febre alta e mal-estar.,MEDIA
+"Uma senhora caiu na calçada, está consciente, precisa de ajuda médica urgente!",MEDIA
+"Na noite passada, o bairro de Santo Amaro sofreu com uma queda de energia elétrica, impactando a iluminação pública e pequenos comerciantes. A previsão de normalização é para o início da tarde de hoje.",MEDIA
+"Na Rua das Flores, uma senhora precisa de remédios para diabetes. Ela está sem medicação há dois dias e sua saúde começa a preocupar. Seu endereço é número 48, disponível para receber ajuda a partir das 14h.",MEDIA
+"Clinica na Avenida Paulista, nº 200, sofre escassez de médicos devido a bloqueios de trânsito. Estoque de material médico insuficiente para atender 20 pacientes urgentes. Reforço necessário para estabilização imediata da operação.",ALTA
+Estamos sem comida nas famílias da Vila das Flores; precisamos de doações urgentes de alimentos para crianças e idosos.,ALTA
+Precisamos de transporte urgente para evacuar pessoas da área inundada no bairro. A situação está grave!,ALTA
+Uma pessoa está com febre alta no prédio. Precisa de atendimento médico urgente.,MEDIA
+"Preciso de transporte para sair da área, situação está sob controle.",BAIXA
+"Muitas famílias aqui no bairro estão sem comida, precisamos urgente de doações de cestas básicas para o Centro Comunitário São Lucas.",ALTA
+Precisamos de água e comida para algumas famílias no acampamento debaixo da ponte.,BAIXA
+"Na comunidade do Jardim Helena, há uma falta de medicamentos básicos na UBS local. A situação pode ser resolvida com doações ou reposição pelo serviço municipal. Verificações e ações rápidas são necessárias para evitar agravamentos.",MEDIA
+"Precisamos de voluntários para ajudar na organização e limpeza do centro comunitário. A situação ainda está controlada, mas qualquer ajuda é bem-vinda para manter tudo em ordem.",BAIXA
+"Na Vila Prudente, idosos estão sem acesso a medicamentos essenciais desde ontem. Urge apoio médico e doações de remédios, especialmente para pressão arterial e diabetes.",ALTA
+Tem uma família aqui na Praça Santo Antônio precisando de alimentos básicos; estão sem recursos há dias. Quem puder ajudar seria ótimo!,MEDIA
+"O centro comunitário Jardim Novo Amanhecer precisa de doações de alimentos. O estoque está baixo e afeta cerca de 50 famílias. Horário de maior necessidade: das 9h às 17h, de segunda a sexta-feira.",MEDIA
+"Precisamos de transporte urgente para pessoas isoladas no bairro, acesso bloqueado!",MEDIA
+"Precisamos de transporte urgente para um grupo isolado na Rua das Flores, número 123.",MEDIA
+"O posto de distribuição de alimentos perto da praça central está sem estoque, e várias famílias já estão sem comida desde ontem. Precisamos de doações urgentemente.",MEDIA
+Preciso de transporte urgente para o hospital! Caso grave aqui!,ALTA
+"A escola do bairro está sem energia e precisamos de suporte urgente para garantir a segurança das crianças e professores, principalmente ao anoitecer.",ALTA
+"Preciso de ajuda para me deslocar até o hospital, não há transporte disponível.",BAIXA
+A estrada principal do bairro está bloqueada devido a alagamento. Precisamos de apoio urgente para transporte alternativo dos moradores para áreas seguras.,ALTA
+"Precisamos de transporte urgente para levar doações ao centro comunitário do bairro, pois várias famílias estão sem acesso a alimentos básicos.",ALTA
+"Na Rua das Flores, nº 120, falta de comunicação efetiva está dificultando a coordenação das equipes de voluntários, afetando a logística de distribuição de suprimentos a 35 famílias necessitadas.",MEDIA
+"Na UPA Jardim Ângela, faltam insumos médicos básicos, afetando a triagem de pacientes. O fluxo de atendimento está comprometido, necessitando reposição urgente para evitar agravação de casos leves. Localização: Rua Adoniran Barbosa, nº 150.",MEDIA
+Precisamos de transporte urgente para levar idosos ao centro de acolhimento próximo; o ônibus não apareceu e temos pouca mobilidade aqui.,MEDIA
+"Na rua das Flores, uma senhora idosa precisa de assistência médica leve. Ela relatou dificuldades respiratórias leves desde ontem, por volta das 15h. Ajuda médica para avaliação e suporte seria benéfica.",MEDIA
+"Criança com febre alta, preciso de médico urgente na Rua Silva.",ALTA
+"Na Avenida Paulista, altura do nº 1578, transporte público bloqueado devido a inundações. Aproximadamente 50 pessoas impossibilitadas de se deslocar, incluindo crianças e idosos, necessitam de evacuação urgente.",ALTA
+"Há um idoso passando mal no parque, precisa de atendimento médico!",MEDIA
+Há um surto de gripe no bairro Jardim Aricanduva. Muitas crianças estão doentes e precisam de atendimento médico. Recomenda-se reforço na equipe de saúde local para atendimento imediato.,ALTA
+Pessoa ferida e inconsciente na Rua Principal. Precisamos de socorro médico urgente!,ALTA
+"O centro de distribuição na Avenida Paulista, nº 1578, enfrenta grave escassez de alimentos, afetando aproximadamente 250 famílias vulneráveis. Solicita-se reposição urgente para evitar agravamento da situação.",ALTA
+"Familias no bairro do Jardim Helena enfrentam falta crítica de alimentos. A situação demanda doações urgentes, principalmente de itens básicos, para atender a todos. Voluntários podem se dirigir à Comunidade Esperança durante o dia.",ALTA
+Famílias no centro comunitário estão sem comida há dois dias. Socorro urgente!,ALTA
+"Precisamos de comida urgente no abrigo do centro, suprimentos baixando rápido!",MEDIA
+"Estamos precisando de voluntários para ajudar com a organização de doações no centro comunitário do bairro, está faltando gente para manejar os itens.",MEDIA
+Famílias na Vila Primavera estão sem alimentos suficientes. Precisamos de doações urgentes para garantir que todos tenham o que comer.,MEDIA
+"O posto de saúde no bairro Jardim Paulista, à Rua Haddock Lobo, está sem suprimentos médicos básicos e submedicado para atender pacientes em situação emergencial, impactando 20 pessoas. Reposição urgente de medicamentos é necessária.",ALTA
+"Uma pessoa está passando mal na praça do centro, precisa de assistência médica.",MEDIA
+Crianças no Centro Comunitário do Bairro Luz estão sem comida desde ontem. Precisamos de doações urgentes para alimentar todos hoje.,ALTA
+"Uma pessoa está passando mal na rodada marginal, precisamos de médico rápido.",MEDIA
+Precisamos urgentemente de alimentos para as famílias no centro comunitário. As doações estão acabando e várias crianças já estão com fome.,ALTA
+Temos um grupo de idosos no centro comunitário precisando de um acompanhamento médico básico. Alguém disponível para dar uma olhada?,BAIXA
+Famílias sem comida há dois dias na comunidade do Jardim São Luiz! Urgente!,ALTA
+"O transporte público na região centro-sul enfrenta atrasos frequentes, especialmente entre 7h e 9h, impedindo as pessoas de chegarem pontualmente ao trabalho. Considerar alternativas pode ajudar a minimizar impactos.",MEDIA
+"Na praça do centro, há alguém com mal-estar leve precisando de uma avaliação médica. Se alguém puder ajudar, por favor, dirija-se ao local.",BAIXA
+"Na Rua das Flores, idosos aguardam consulta médica. Atendimento atrasado devido ao grande número de pacientes. Voluntários podem ajudar na organização e manter o local tranquilo durante o dia.",BAIXA
+"Precisamos urgentemente de um médico no Posto de Saúde Central do Bairro, há uma pessoa desmaiada e sem atendimento disponível!",ALTA
+"Na comunidade do Parque das Flores, várias famílias estão sem comida desde ontem. Precisamos urgentemente de alimentos, a situação está crítica.",ALTA
+"Na Rua das Flores, idosos precisam de acompanhamento médico básico devido a falta de medicamentos comuns. Atendimento pode ser realizado durante a semana, das 9h às 17h. A situação está sob controle, mas requer atenção.",BAIXA
+"Precisamos urgente de alimentos na escola comunitária, as crianças estão sem nada.",MEDIA
+"Trânsito intenso no acesso à Marginal Tietê, impedindo a passagem de veículos de emergência. Recomenda-se rotas alternativas para Urgente. Período crítico entre 16h e 19h.",ALTA
+O transporte público na região de Santo André está sobrecarregado desde a manhã devido a falhas técnicas. Muitos passageiros ficaram sem condução para o trabalho. Alternativas de transporte são urgentes para evitar mais transtornos.,ALTA
+Precisamos de transporte urgente para levar alimentos para a comunidade do Jardim Primavera. Os acessos estão bloqueados pela chuva e a situação está se agravando.,ALTA
+Famílias no bairro Jardim das Flores estão sem alimentos básicos para o fim de semana. Precisamos de doações urgentemente para ajudar essas pessoas.,ALTA
+"Na Avenida Paulista, próximo ao número 1500, o tráfego está completamente parado devido a um acidente de trânsito. Ambulâncias não conseguem acessar o local, atrasando atendimentos médicos urgentes.",ALTA
+"O parque do bairro está com um acúmulo de lixo após o evento de ontem. Os moradores estão preocupados com a limpeza. Seria importante realizar a coleta ainda hoje, antes que se espalhe.",MEDIA
+"O centro comunitário está sem energia, e isso está impactando a comunicação e a distribuição de suprimentos para as famílias locais. Precisamos de ajuda urgente para restabelecer a eletricidade.",MEDIA
+Há uma falta urgente de medicamentos essenciais no posto de saúde do Jardim São Paulo. Pacientes críticos estão sendo impactados. A situação demanda atenção imediata para evitar maiores complicações.,ALTA
+Há várias crianças com febre no Centro Comunitário Vila Nova e precisamos de ajuda médica para avaliá-las.,MEDIA
+"Uma escola na Av. Paulista, nº 123, enfrenta escassez de materiais educativos devido a entrega atrasada. A situação afeta 30 alunos, mas não compromete atividades essenciais.",BAIXA
+Estamos com falta de transporte para levar os idosos do Lar do Sol ao hospital local. Precisamos de motoristas voluntários para ajudar urgentemente.,MEDIA
+"Na clínica de saúde localizada na Avenida Paulista, nº 1500, há escassez de equipamentos de medição de pressão arterial, afetando o atendimento de rotina. Necessário reabastecimento para garantir o monitoramento básico dos pacientes.",BAIXA
+"Estou no bairro Vila Esperança, e a van que leva crianças para a escola quebrou. Precisamos de um transporte temporário urgente para que elas possam chegar a tempo.",MEDIA
+Uma criança caiu de bicicleta no Parque Aurora e está com um arranhão. Precisamos de um kit de primeiros socorros para ajudar.,BAIXA
+"Na Vila Mariana, idosos enfrentam dificuldade para obter medicamentos no posto de saúde, principalmente entre 10h e 16h. Suporte comunitário pode ajudar a aliviar a situação.",MEDIA
+"Na Rua das Flores, uma senhora precisa de medicamentos para pressão arterial. Ela está sem recursos para comprá-los. Urge apoio na tarde de hoje para assegurar sua saúde e bem-estar.",MEDIA
+"Temos um vazamento de gás na rua Flores, próximo ao mercado, e precisamos de suporte urgente para garantir a segurança do pessoal por aqui.",ALTA
+Tem uma barreira na estrada principal bloqueando a passagem. Precisamos de ajuda para liberar o caminho!,MEDIA
+"O posto de saúde na Avenida Liberdade, nº 1234, enfrenta escassez de insumos médicos básicos, comprometendo o atendimento a cerca de 50 pacientes diários.",MEDIA
+"No bairro Jardim das Rosas, a creche local está com estoque de alimentos reduzido, essencial para a semana. A doação seria muito bem-vinda para atender cerca de 50 crianças. A situação precisa ser resolvida até sexta-feira.",MEDIA
+Precisamos de um kit de primeiros socorros para uma pessoa com um pequeno corte na perna.,BAIXA
+"Na comunidade do Jardim Helian, há uma urgente necessidade de alimentos. Muitos residentes ficaram sem suprimentos devido a um recente problema de abastecimento. Ajuda é necessária imediatamente para apoiar essas famílias.",ALTA
+"Na Unidade de Saúde do Jardim Peri, algumas pessoas aguardam consultas médicas, mas há um pequeno atraso. Voluntários podem ajudar organizando as filas e oferecendo apoio aos pacientes.",BAIXA
+O galpão comunitário do bairro está sem alimentos e muitas famílias estão sem o que comer. Precisamos de doações urgentes para apoiar quem mais precisa!,ALTA
+"O posto de saúde na Avenida Brasil, nº 758, enfrenta falta de medicamentos essenciais, afetando o tratamento de cerca de 20 pacientes crônicos. A situação requer reposição urgente para evitar complicações de saúde.",ALTA
+"No bairro Jardim das Flores, há necessidade de voluntários para ajudar na distribuição de cobertores para pessoas em situação de rua. A atividade ocorrerá hoje à tarde e faz diferença nas noites frias.",MEDIA
+"Falta comida no abrigo do centro, precisamos de doação urgente!",MEDIA
+As crianças do bairro precisam urgente de materiais escolares para continuarem seus estudos adequadamente. A falta está prejudicando o aprendizado de todos.,MEDIA
+"Pessoal, tem algumas famílias presas na rua da Paz, sem como voltar pra casa por conta das enchentes. Precisamos de alguma forma de transporte urgente para retirá-las de lá.",MEDIA
+"Na região de Santo Amaro, próximo à Avenida João Dias, houve um rompimento de adutora, resultando em alagamentos severos e falta de água potável para aproximadamente 500 famílias. A situação compromete a saúde pública e necessita de ação imediata.",ALTA
+Urgente: uma criança se machucou seriamente na praça do Bairro Santo Amaro e precisa de socorro médico imediato. Alguém conhece um médico ou serviço de emergência disponível na área?,ALTA
+"Uma criança está precisando de assistência médica no parquinho do bairro São Pedro. Não parece ser grave, mas precisa de atenção rápida.",MEDIA
+"Criança com febre alta e sem atendimento na rua, precisamos de ajuda médica urgente!",ALTA
+"Devido à recente obra na Rua das Flores, alguns ônibus estão atrasando cerca de 15 minutos. Recomenda-se sair com antecedência para evitar contratempos.",BAIXA
+"Estamos precisando de voluntários para organizar a fila de doação de roupas no centro comunitário, tá uma bagunça e ninguém sabe para onde ir.",MEDIA
+"Urgente: no parque da Vila Nova, um senhor sofreu um desmaio e não há atendimentos médicos disponíveis. Precisamos de ajuda imediata para garantir seu bem-estar.",ALTA
+"Um posto de saúde na Vila Mariana enfrenta falta de medicamentos essenciais desde ontem, afetando o tratamento de pacientes crônicos. Precisamos de doações ou reabastecimento urgente para normalizar o atendimento.",MEDIA
+"A Unidade Básica de Saúde na Avenida Paulista, nº 1234, enfrenta escassez de materiais de primeiros socorros, impactando o atendimento básico. Necessidade imediata de reabastecimento para evitar interrupções em serviços essenciais.",BAIXA
+"Há algumas pessoas no posto de saúde Vila Clara aguardando atendimento médico, e a equipe lá está sobrecarregada. Precisamos de mais apoio para garantir que todos sejam atendidos a tempo.",MEDIA
+"O posto de saúde na Avenida Paulista, nº 1500, está operando com capacidade reduzida devido à falta de insumos médicos básicos, afetando o atendimento de aproximadamente 30 pacientes. Necessário reabastecimento urgente para evitar interrupções nos serviços essenciais.",MEDIA
+"Na Avenida Paulista, número 1578, há congestionamento severo devido a um acidente envolvendo dois veículos, bloqueando a via. Isso está atrasando o transporte de suprimentos críticos para hospitais próximos.",MEDIA
+"Um morador do prédio ao lado precisa de remédios para dor de cabeça, mas está sem transporte para ir à farmácia. Pode ajudar?",BAIXA
+"Há falta de cobertores no abrigo comunitário do Jardim São Luiz. Com a chegada do frio, seria importante receber doações de cobertores até o final da semana. Ajudaria muito o bem-estar dos moradores.",MEDIA
+"Falta de eletricidade no prédio da Rua das Flores, sem previsão de retorno!",MEDIA
+"O depósito de alimentos na Vila Mariana, Zona Sul, foi alagado comprometendo a distribuição de suprimentos para 200 famílias. Caminhões de transporte estão parados, exigindo intervenção urgente para garantir abastecimento.",ALTA
+"O centro de distribuição de alimentos no distrito de Vila Prudente está com estoques críticos, afetando a segurança alimentar de cerca de 150 famílias. Acesso dificultado por obras na Avenida Anhaia Mello.",ALTA
+Precisamos urgentemente de transporte para levar famílias do bairro Vila Nova para o centro de acolhimento. Muitos estão sem meios próprios para sair.,ALTA
+"Na Avenida dos Estados, Santo André, transporte público está bloqueado devido a alagamento, impactando mobilidade de aproximadamente 200 pessoas. Necessidade urgente de transporte alternativo para deslocamento seguro.",ALTA
+"Na Rua das Acácias, uma senhora necessita de atendimento médico para dores intensas na perna, desde ontem à noite. A situação está estável, mas atenção médica é recomendada para evitar complicações.",MEDIA
+"Precisamos de transporte urgente para idosos na Rua Silva, estão sem abrigo!",ALTA
+O Centro Comunitário Esperança precisa urgente de voluntários para ajudar na organização de suprimentos. A demanda aumentou e poucos estão disponíveis. Sua ajuda fará diferença!,ALTA
+"Na Rua da Saúde, às 14h, um grupo está precisando de assistência médica básica devido a sintomas de gripe. Algumas pessoas estão com febre e tosse. Voluntários podem ajudar levando medicamentos e verificando o bem-estar deles.",MEDIA
+"Precisamos de um médico na praça central do bairro, alguém está com falta de ar e precisa de atendimento. A situação está sob controle, mas precisamos de ajuda médica o quanto antes.",MEDIA
+"Estamos precisando consertar alguns postes de luz na rua Araucária; a iluminação está fraca, o que é perigoso à noite.",BAIXA
+"Uma família na Rua das Flores, Vila Mariana, precisa de material de primeiros socorros para pequenos ferimentos. O atendimento é necessário até o fim do dia. Ninguém está em risco grave.",BAIXA
+"A estação de metrô São Judas está com todas as escadas rolantes paradas desde a manhã. Muitos idosos e pessoas com dificuldade de locomoção enfrentam desafios para acessar plataformas, necessitando urgente de rotas alternativas.",ALTA
+Urgente! Criança ferida na esquina da Avenida Central e Rua 10. Precisamos de ajuda médica agora!,ALTA
+"Na Rua das Flores, próximo ao número 120, uma pessoa aparenta estar com sintomas gripais intensos desde o início da manhã. Se possível, seria bom receber uma visita médica para avaliação e orientações adequadas.",MEDIA
+"Um senhor idoso está com tosse no centro comunitário do bairro, mas parece estável; seria bom uma verificação médica.",BAIXA
+Precisamos urgentemente de transportes para idosos no bairro Vila das Flores. Muitos estão sem meios de locomoção para hospitais e centros de saúde.,ALTA
+"Em Paraisópolis, na Rua Pasquale Gallupi, há escassez crítica de medicamentos essenciais e ausência de profissionais de saúde, afetando diretamente mais de 50 pacientes crônicos em tratamento contínuo. A situação requer intervenção médica imediata.",ALTA
+"Um morador na rua da Consolação precisa de exames médicos, mas não tem como ir ao hospital. Algum voluntário disponível?",MEDIA
+Preciso de transporte para levar idosos ao ponto de apoio.,BAIXA
+"Precisamos de transporte para idosos no ponto Acesso Norte, ninguém disponível ainda!",MEDIA
+"No bairro Jardim São Luís, há dificuldade no acesso à internet em locais públicos, impactando estudantes que precisam estudar online. Seria útil apoio para melhorar a conectividade na região, especialmente durante o horário escolar.",MEDIA
+"Devido à chuva intensa, há dificuldades de transporte no bairro Jardim São Luís, especialmente nas ruas principais. A situação impacta moradores que precisam de deslocamento urgente. Recomenda-se auxílio para garantir transporte alternativo.",ALTA
+Estamos com grande escassez de alimentos no centro comunitário do Bairro Laranjeiras; há crianças necessitando urgentemente de alimentação adequada.,ALTA
+O centro comunitário do bairro Jardim Primavera está com estoques reduzidos de alimentos. Necessitam de doações para atender cerca de 30 famílias. Doações podem ser entregues no local até às 17h.,MEDIA
+"As crianças na creche Bom Pastor precisam de voluntários para ajudar nas atividades diárias, pois os cuidadores estão sobrecarregados.",MEDIA
+"Tem um vazamento de gás na rua Olavo Bilac, trazendo perigo para as casas ao redor. Precisamos de assistência urgente para proteger todos.",ALTA
+"Na UBS Vila Mariana, há carência de suprimentos médicos essenciais, afetando o atendimento de aproximadamente 80 pacientes. A situação compromete tratamentos urgentes, necessitando reposição imediata de medicamentos e materiais básicos.",ALTA
+"Preciso de assistência médica para uma queda, dor visível, perto da praça central!",MEDIA
+"Preciso de ajuda médica para um vizinho idoso que caiu perto da praça, não consegue se levantar e está sozinho.",MEDIA
+Uma pessoa com febre alta e tosse forte precisa de ajuda médica em casa agora!,MEDIA
+"Alguém está ferido na rua, precisa de ajuda médica urgente. Não há socorro no local!",ALTA
+Há necessidade urgente de transporte para pacientes doente na Avenida Paulista. Há esperas longas e comprometimento no acesso a consultas médicas. Solicitamos ajuda emergencial de voluntários motoristas.,ALTA
+"A unidade de saúde no bairro de Pirituba está com falta temporária de materiais de primeiros socorros, mas não há impacto imediato nos atendimentos. Reabastecimento previsto para as próximas 48 horas, com monitoramento contínuo da situação para evitar complicações.",BAIXA
+Uma criança com dor de garganta leve precisa de uma consulta médica no posto de saúde do bairro Vila Nova.,BAIXA
+"Idoso precisando de assistência médica no parque central, sem ajuda no momento.",MEDIA
+"Na Avenida Paulista, nº 1578, o fluxo de transporte está temporariamente interrompido devido a um pequeno acidente, mas a situação está sob controle e o desvio já está em operação. O impacto é mínimo e não há necessidade urgente de intervenção.",BAIXA
+"Precisamos de transporte urgente para evacuar famílias da Rua das Flores devido a risco de inundação. Se alguém puder ajudar com veículos ou coordenação, seria vital.",ALTA
+"A unidade de distribuição alimentar na Av. Jacu Pêssego, n° 2200, enfrenta escassez crítica de alimentos, afetando o suprimento para cerca de 150 famílias vulneráveis na região. A interrupção na logística de entrega piora a situação.",ALTA
+"Precisamos urgentemente de comida no abrigo, crianças passando fome!",ALTA
+"Precisamos de apoio médico para uma criança com febre alta na Rua das Flores, 132. Algum profissional de saúde disponível?",MEDIA
+"Preciso de transporte urgente para o hospital, situação estável, mas sem locomoção.",MEDIA
+Famílias no centro comunitário do Jardim Rosa estão sem acesso a comida suficiente para as crianças. Precisamos de doações de alimentos urgentemente!,ALTA
+"Famílias sem comida há dois dias na Rua das Flores, precisamos de alimentos urgentemente!",ALTA
+Precisamos de transporte urgente para evacuar pessoas da área inundada!,ALTA
+"Precisamos urgentemente de transporte para as famílias isoladas pela enchente na rua Monte Claro. Nenhum veículo consegue chegar ao local, e eles precisam de ajuda para sair de lá.",MEDIA
+"Urgente: precisamos de transporte para 5 pessoas na Rua das Flores, bairro sem acesso. Ajuda necessária!",MEDIA
+Precisamos de transporte urgente na Avenida Paulista para evacuação de famílias.,MEDIA
+"Precisamos de transporte urgente para idosos em Mauá, ninguém consegue chegar a tempo!",MEDIA
+O semáforo na esquina da Rua Principal está quebrado. Pode causar acidentes!,BAIXA
+"Uma criança escorregou e machucou a perna no parquinho da praça. Não é grave, mas seria bom um enfermeiro para dar uma olhada.",BAIXA
+Precisamos de socorro médico urgente: alguém sofreu uma queda grave na Avenida Central!,ALTA
+"Na Avenida Paulista, próximo ao número 1000, um congestionamento severo afeta o fluxo de ambulâncias e veículos de emergência. A situação compromete o acesso de suprimentos e pessoal de socorro à região central.",MEDIA
+"No bairro Jardim das Flores, muitas famílias estão sem comida e precisam de doações urgentes. Alguém pode ajudar? A situação é crítica!",ALTA
+"Na Rua das Flores, número 25, houve um rompimento de tubulação de água, causando inundação nas casas por volta das 14h. Algumas famílias estão desalojadas e precisam de assistência emergencial para abrigo temporário e itens de primeira necessidade.",ALTA
+"Centro de Saúde do Jardim das Rosas enfrenta escassez de suprimentos médicos básicos, dificultando o atendimento adequado a pacientes com condições crônicas. Localização: Rua das Azaleias, 210.",MEDIA
+Uma pessoa está presa no trânsito com necessidade urgente de chegar ao hospital; precisamos de transporte imediato na avenida principal.,ALTA
+Precisamos de transporte urgente para levar famílias do bairro Jardim Clara ao abrigo central devido à enchente iminente. Estradas podem ficar inacessíveis em breve.,MEDIA
+"Criança machucou o joelho no parque, precisa de primeiros socorros.",BAIXA
+"Faltam mantimentos no abrigo central, pessoas sem comida desde ontem!",MEDIA
+"Preciso de transporte para voltar para casa, estou preso aqui.",BAIXA
+Criança com febre alta precisando de médico urgente na Praça Central!,ALTA
+"Na Rua das Laranjeiras, uma árvore caída bloqueia a entrada da escola local desde a madrugada. É importante coordenar a remoção para garantir a segurança e o acesso dos alunos e funcionários.",MEDIA
+"O centro comunitário na Rua das Flores, nº 152, enfrenta escassez moderada de alimentos devido ao aumento de demanda e atrasos no fornecimento. Cerca de 30 famílias dependem do suporte alimentar local.",MEDIA
+"No bairro do Brooklin, amanhã de manhã, será realizada uma feira comunitária precisando de ajuda para organização. Voluntários são bem-vindos para auxílio na montagem e direcionamento das barracas.",BAIXA
+"Uma mulher está passando mal na rua, precisa de ajuda médica urgente!",MEDIA
+Criança com febre leve precisando de atenção médica no parque.,BAIXA
+"Há escassez de transporte público na região do Jardim São Luís desde o início da manhã, dificultando o deslocamento dos moradores para trabalhar e estudar. Recomenda-se alternativas de transporte ou apoio voluntário para caronas.",ALTA
+Precisamos de transporte urgente para família isolada e sem condução segura.,MEDIA
+"Alguém caiu e está machucado na praça central, precisa de ajuda médica.",MEDIA
+"Na Rua das Flores, às 15h, uma pessoa está passando mal e precisa de atendimento médico urgente. Não há transporte disponível e há risco de agravamento. A assistência médica imediata é crucial.",ALTA
+"No bairro Jardim Aurora, há crianças passando fome, pois a escola local não tem recebido os alimentos doados. A situação é crítica e necessita de ajuda imediata para garantir o mínimo necessário às famílias.",ALTA
+"Os moradores do Jardim Paulista enfrentam dificuldades com transporte público devido a falhas frequentes no serviço de ônibus, principalmente entre 6h e 9h. Isso afeta o acesso ao trabalho e à escola. Assistência urgente é necessária.",ALTA
+"No bairro Jardim das Flores, várias pessoas relataram sintomas de gripe. O posto de saúde local está sobrecarregado. A situação requer atenção para evitar propagação. Atendimento adicional pode ser necessário nos próximos dias.",MEDIA
+"Precisamos de transporte urgente para família com crianças na Rua das Flores, 45!",MEDIA
+"Na Rua das Flores, hoje pela manhã, uma pessoa idosa precisou de atendimento médico urgente e ainda não há ambulâncias disponíveis. O impacto é significativo, pois a condição dela pode se agravar sem assistência imediata.",ALTA
+"A Unidade Básica de Saúde no bairro Jabaquara está com atraso na entrega de medicamentos devido a problemas de abastecimento. Pequena interrupção no atendimento farmacêutico, afetando cerca de 20 pacientes esperando por medicação de rotina.",BAIXA
+"A Unidade Básica de Saúde no Jardim Peri Peri está com falta de termômetros e luvas descartáveis, afetando a triagem inicial. A reposição destes itens é necessária para manter o fluxo eficaz de atendimento.",BAIXA
+Estamos precisando de doações de alimentos para as famílias no centro comunitário do bairro. Muitas estão sem condições de comprar o básico e a ajuda seria muito bem-vinda.,MEDIA
+"Uma pessoa com dor de cabeça leve, precisa de consulta médica básica na praça central.",BAIXA
+"Na Rua das Flores, ônibus não estão circulando desde ontem devido a alagamentos. Muitas pessoas estão sem transporte para trabalho e escola, criando dificuldades significativas na mobilidade local.",ALTA
+"No bairro da Liberdade, houve um corte inesperado de energia, afetando residências e pequenos negócios desde as 14h. Recomenda-se cuidado ao transitar e a verificação de geradores de emergência.",MEDIA
+"Na Rua Silva, no bairro da Mooca, um morador idoso com dificuldades de mobilidade necessita de atendimento médico domiciliar. O atendimento é urgente, idealmente realizado ainda hoje.",MEDIA
+Precisamos urgente de transporte para levar um grupo de idosos do centro comunitário ao hospital. O ônibus não chegou e eles estão sem condições de andar muito.,ALTA
+"No Jardim Helena, na Rua dos Jasmins, nº 245, um vazamento de gás foi identificado, forçando a evacuação imediata. A presença de crianças e idosos no local requer intervenção urgente das equipes de emergência para controlar a situação.",ALTA
+"Na UBS Jardim das Flores, os atendimentos estão lentos devido à falta de pessoal na manhã de hoje. As filas crescem, especialmente para consultas e vacinação. Solicita-se a presença de voluntários para apoio no local.",MEDIA
+Há uma necessidade urgente de transporte no bairro Jardim das Flores. Pessoas com dificuldades de locomoção não conseguem chegar ao hospital local. Qualquer ajuda com veículos é vital durante o horário de pico da manhã.,ALTA
+"O centro comunitário na Rua das Flores, nº 75, enfrenta escassez de equipamentos essenciais para atividades de recreação infantil, impactando cerca de 40 crianças diariamente.",MEDIA
+Falta de mantimentos no abrigo já ameaça a saúde de muitos; ajuda urgente necessária!,ALTA
+"Na UBS São Judas, há necessidade urgente de medicamentos para pacientes crônicos. Sem estoques suficientes, a situação pode se agravar. Voluntários e doações são bem-vindos, especialmente nos horários de pico, entre 9h e 17h.",ALTA
+Famílias no bairro Parque das Flores estão sem comida há dois dias. Precisamos de doações urgentes para garantir que todos tenham algo para comer.,ALTA
+Centro de Saúde da Vila Maria enfrenta falta de suprimentos médicos essenciais. Estoque de medicamentos críticos abaixo do necessário e ausência de alguns equipamentos médicos. Aproximadamente 30 pacientes comprometidos com necessidade urgente de intervenções.,ALTA
+Estão precisando urgentemente de transporte para evacuar a área alagada na Rua das Flores. Muitas pessoas ainda estão ilhadas e aguardam ajuda imediata.,ALTA
+"Tem um vazamento de gás no prédio, cheiro forte no corredor!",MEDIA
+"Na Rua dos Girassóis, nº 180, um bloqueio temporário de estrada devido a obras está causando atrasos menores no transporte público local. Alternativas de rota disponíveis, afetando principalmente o horário de pico matinal.",BAIXA
+"Falta de energia elétrica em toda a rua, pessoas presas no elevador!",ALTA
+"No bairro do Campo Limpo, há falta grave de transporte público devido a enchentes. Muitas pessoas estão ilhadas e precisando de transporte alternativo. Isso ocorre desde as 7h da manhã, impactando especialmente trabalhadores e escolares.",ALTA
+"Uma clínica da Vila Mariana enfrenta escassez de suprimentos médicos básicos. Seria útil receber doações de material como luvas e máscaras, especialmente durante a semana. A situação é administrável, mas precisa de atenção imediata.",MEDIA
+Uma senhora idosa no Bairro Jardim Paulista está com dificuldade para pegar seus remédios na farmácia. Ela precisa de ajuda para buscar os medicamentos entre 14h e 16h hoje.,BAIXA
+"O centro comunitário na Rua das Palmeiras, nº 25, está sem acesso à internet, impactando a comunicação e coordenação de voluntários. A situação requer atenção para evitar atrasos nas operações de apoio.",BAIXA
+Precisamos de transporte urgente para levar pessoas presas pela enchente na Rua das Flores para um local seguro. A situação está se complicando com a chegada da noite.,ALTA
+Precisamos urgentemente de transporte para idosos do bairro Jardim Florido até o posto de saúde mais próximo. Eles não conseguem caminhar essa distância.,MEDIA
+"Precisamos de um médico na Rua Silva, alguém está com muita dor!",ALTA
+Uma pessoa com dor de cabeça leve na Praça Central aguarda orientação médica para receber o medicamento adequado.,BAIXA
+"A principal ponte no bairro da Vila Mariana está interditada desde ontem à noite, causando um estrangulamento no trânsito e dificultando o acesso a serviços essenciais. Urge apoio para facilitar o transporte local.",ALTA
+"No bairro de Santana, há uma senhora idosa precisando de assistência médica devido a uma queda. Ela está consciente, mas sente dor. Ocorreu hoje por volta das 10h, na Rua Voluntários da Pátria, próximo ao número 500.",MEDIA
+"Temos um caso leve de febre no centro comunitário da Vila Verde, precisamos de uma olhada médica de rotina para garantir que tudo está bem.",BAIXA
+"Na Zona Leste, um grupo de pessoas está precisando rapidamente de atendimento médico devido a sintomas graves de intoxicação alimentar. É crucial enviar auxílio médico imediato para evitar complicações mais sérias.",ALTA
+"Criança inconsciente no parque central, precisamos de socorro médico imediato!",ALTA
+"Na Vila Mariana, uma senhora está passando mal desde a manhã e precisa de assistência médica urgente. Ambulâncias estão demorando. Necessário apoio rápido para evitar agravamento.",ALTA
+Famílias sem comida no abrigo central! Urgência máxima!,ALTA
+"Urgente: Precisamos de um médico na Rua das Flores, nº 78. Um morador idoso está com dificuldades respiratórias e não há atendimento médico disponível.",ALTA
+"Precisamos de assistência médica no centro comunitário da Vila Nova, uma criança está com febre alta e não tem profissionais de saúde disponíveis no local.",MEDIA
+"No bairro Jardim Novo Mundo, uma pessoa está com dificuldade respiratória aguda. É urgente a necessidade de assistência médica imediata. O incidente começou às 15h e está afetando gravemente o bem-estar do indivíduo.",ALTA
+Preciso de transporte urgente para um grupo de idosos no bairro Vila Mariana.,MEDIA
+"Hoje, por volta das 8h, notei que muitos moradores da Rua Central enfrentam dificuldades para chegar ao trabalho devido à falta de transporte público. Isso está causando atrasos significativos na área.",MEDIA
+"Na UBS do Jardim Novo, há uma demanda crescente por consultas médicas. O atendimento está sobrecarregado, especialmente entre 10h e 14h. Voluntários podem ajudar na triagem para agilizar o processo.",MEDIA
+"Estamos sem energia elétrica na Rua das Flores, afetando várias casas. Precisamos de suporte para solucionar o problema antes do entardecer.",MEDIA
+"Na Vila Andrade, zona sul, o centro de distribuição de alimentos está com estoque insuficiente para atender 150 famílias. A falta de suprimentos deve ser resolvida em 48 horas para evitar escassez alimentar.",ALTA
+Precisamos urgentemente de transporte para idosos em abrigo na Vila Mariana.,MEDIA
+"Estamos precisando de alimentos para o centro comunitário da Vila Esperança, as doações estão baixas e temos muitas famílias em necessidade. Quem puder ajudar, por favor, colabore!",MEDIA
+"Precisamos urgentemente de transporte para levar moradores ilhados na Rua das Flores a um local seguro, antes que a situação piore com a subida das águas.",ALTA
+Precisamos urgentemente de transporte para evacuar moradores do prédio nº 45 na Rua das Flores devido a um vazamento de gás. Risco alto de explosão!,ALTA
+"No bairro da Liberdade, idosos aguardam atendimento médico desde pela manhã devido à alta demanda. Isso pode impactar seu bem-estar, então apoio extra seria benéfico imediatamente.",MEDIA
+"Na Vila Rami, há escassez de medicamentos para condições crônicas. Os moradores estão preocupados, e seria ideal receber apoio em breve para evitar complicações. Isso tem ocorrido nas últimas semanas.",MEDIA
+"Árvore caída bloqueia rua principal, precisamos de ajuda urgente para liberar passagem!",ALTA
+Um senhor desmaiou na fila do posto de saúde da Vila Maria e não há médicos disponíveis para ajudar no momento.,ALTA
+Uma criança está com febre alta no posto do bairro e ainda não foi atendida; precisamos de um médico urgente!,ALTA
+"Um parque no bairro Jardim das Flores tem brinquedos quebrados, representando risco para crianças. Seria útil reparar ou substituir esses equipamentos para garantir a segurança dos frequentadores.",MEDIA
+"Unidade de Saúde Jardim São Luís enfrenta falta temporária de medicamentos essenciais, impactando atendimento a aproximadamente 50 pacientes. Urgência moderada devido à afetada administração de tratamentos contínuos. Localização: Rua Major Walter Carlson, 215.",MEDIA
+"Unidade de saúde na Avenida Paulista, 1234, enfrenta déficit de medicamentos essenciais, impactando tratamento de pacientes. Aproximadamente 30 atendimentos prejudicados diariamente, incluindo casos crônicos que exigem intervenção contínua.",MEDIA
+"Tem alguém passando mal no parque, precisa de ajuda médica, por favor!",MEDIA
+"No bairro Jardim Eliane, várias famílias estão enfrentando escassez de alimentos. Urge doações para suprir a demanda crescente no centro comunitário nas próximas 24 horas.",ALTA
+"Fumaça intensa no prédio ao lado, possível incêndio. Alerta urgente!",ALTA
+Há alguém tendo dificuldades respiratórias na pracinha do bairro. Precisamos de assistência médica o quanto antes.,MEDIA
+"O centro comunitário na Avenida Jabaquara, nº 120, enfrenta escassez de voluntários para distribuição de kits básicos a 50 famílias carentes da região. A situação requer atenção moderada para evitar atrasos na assistência.",MEDIA
+"Precisamos de um médico no posto de saúde do bairro, tem uma criança com febre alta aguardando atendimento.",MEDIA
+Precisamos de voluntários para distribuir mantas e cobertores aos desabrigados na praça central; as noites estão ficando muito frias e o pessoal está sofrendo.,ALTA
+"Há um paciente na Rua 9 de Julho, precisando de atendimento médico urgente, por volta das 15h. Ele aparenta estar inconsciente e moradores locais estão preocupados. Atenção imediata é necessária.",ALTA
+Famílias no bairro Jardim das Flores estão sem comida há dois dias. Precisamos de doações urgentes para evitar piora na situação.,ALTA
+"Família com crianças presa em enchente, precisa de transporte urgente!",MEDIA
+"No Jardim Peri, na Rua Coronel Euclides Machado, nº 150, ocorre uma grave escassez de alimentos. Aproximadamente 50 famílias estão afetadas, com necessidade urgente de distribuição de mantimentos básicos devido ao bloqueio das rotas de abastecimento.",ALTA
+Urgente! Não temos comida suficiente para todos no abrigo. Precisamos de ajuda agora!,ALTA
+Famílias no bairro Jardim das Flores estão sem acesso a alimentos básicos. Precisamos urgentemente de doações para evitar agravamento da situação.,ALTA
+Há uma ponte próxima do centro comunitário do Jardim São Paulo em risco de desabamento. Precisamos de suporte urgente para evacuar e garantir a segurança de todos.,ALTA
+"O parquinho da Praça dos Artistas está com falta de iluminação à noite, gerando insegurança para as crianças após as 18h. Seria útil informar as autoridades para manutenção e segurança.",BAIXA
+"Na Estrada do Campo, próximo à estação de trem, o fluxo está interrompido por um acidente, impactando o transporte local. Urge uma solução, pois várias pessoas não conseguem seguir para seus compromissos. Atenção necessária para desvio ou reparo imediato.",ALTA
+"Precisamos de transporte imediato para evacuação de famílias na Rua Oliveira, alagamento ameaça segurança!",ALTA
+"O centro de saúde na Avenida Paulista, nº 1234, enfrenta escassez de insumos médicos básicos, impactando o atendimento a pacientes com condições crônicas. A situação limita cuidados essenciais e requer reposição urgente de materiais.",MEDIA
+"Um acidente ocorreu na Avenida Paulista por volta das 15h, envolvendo múltiplos feridos que necessitam de atendimento médico urgente. Ambulâncias são necessárias imediatamente para transporte ao hospital mais próximo.",ALTA
+"Interdição na Avenida Jacu-Pêssego, sentido sul, impede circulação de veículos de serviços essenciais. Desvio necessário para transporte de alimentos e medicamentos, afetando cerca de 5.000 moradores da região do Itaim Paulista.",MEDIA
+Precisamos de transporte urgente para levar pessoas ao ponto de abrigo mais próximo!,MEDIA
+"O centro comunitário do Jardim Bela Vista está sem alimentos para distribuir às famílias carentes. Necessidade urgente de doações para evitar desabastecimento completo. Voluntários podem entregar contribuições diariamente, entre 8h e 18h.",ALTA
+A comunidade do Jardim Leste está com falta de alimentos básicos; precisamos de ajuda urgente para fornecer comida para famílias necessitadas.,ALTA
+"Na Rua das Flores, um morador está passando mal desde a manhã e precisa de assistência médica. A situação parece controlada, mas seria importante uma checagem médica ainda hoje para garantir o bem-estar.",MEDIA
+Precisamos de transporte urgente para evacuar moradores isolados por enchente!,ALTA
+"Na Rua dos Pinheiros, nº 500, sistema de esgoto obstruído está causando inundação em residências. Aproximadamente 30 famílias afetadas necessitam de suporte urgente para remoção de água e limpeza preventiva para evitar contaminações.",ALTA
+"Preciso de ajuda médica para uma criança febril na Rua Silva, não temos transporte para o hospital.",MEDIA
+A clínica do bairro Jabaquara está com longa espera para consultas médicas hoje devido ao aumento de atendimentos. Recomenda-se chegar cedo ou buscar outras unidades próximas para evitar atrasos significativos.,MEDIA
+"Precisamos de transporte para idosos na Rua das Flores, urgente!",MEDIA
+"Alerta para ajuda médica no centro comunitário! Um jovem está com febre alta e precisa de verificação urgente. Médico na área, por favor, responda.",MEDIA
+"Na região do ABC, ônibus estão atrasando consistentemente no início da manhã. Isso tem dificultado o acesso ao trabalho para muitos, especialmente das 6h às 8h. Alternativas de transporte podem ser necessárias temporariamente.",MEDIA
+Falta de comida no abrigo. Pessoas com fome urgente precisam de ajuda!,ALTA
+"Na Unidade Básica de Saúde do Jardim das Flores, há falta de profissionais médicos, impactando o atendimento de aproximadamente 30 pacientes em espera. A situação requer intervenção para suprir a demanda e evitar agravamento.",MEDIA
+"O abrigo da Comunidade dos Anjos está sem alimentos suficientes para todos, precisamos de doações para suprir o pessoal até o final da semana.",MEDIA
+Precisamos urgentemente de assistência médica para um idoso no Parque das Flores; ele está desmaiado e não consegue responder. Alguém pode ajudar?,ALTA
+Alertar sobre queda de energia no bairro; precisamos de velas e lanternas rapidamente!,MEDIA
+"Na Zona Sul, o centro comunitário enfrenta escassez de alimentos desde hoje cedo, impactando mais de 50 famílias. Doações são urgentemente necessárias para evitar piora na situação.",ALTA
+"O Centro Comunitário do Jardim São Luiz está com escassez de alimentos, afetando 50 famílias. Precisamos de doações urgentes até amanhã para evitar que fiquem sem refeições adequadas.",ALTA
+"Temos uma queda de energia na rua Campo Verde, e as famílias estão sem eletricidade desde ontem à noite. Precisamos de assistência para restaurar a luz o mais rápido possível.",MEDIA
+"Devido a obras emergenciais na Avenida Paulista, nº 1200, o transporte público está com serviços reduzidos, impactando cerca de 50 mil usuários durante o horário de pico. Alternativas logísticas são necessárias para mitigar a sobrecarga nas vias adjacentes.",MEDIA
+"Um poste caiu na Rua da Paz, bloqueando a via e causando perigo de incêndio por fios expostos. Precisamos de assistência imediata para evitar acidentes graves.",ALTA
+Famílias na comunidade do Parque Santo Antônio estão sem comida básica para o fim de semana. Precisamos de doações urgentes para abastecer o centro comunitário local.,ALTA
+"O posto de saúde na Avenida das Flores, nº 150, enfrenta ausência emergencial de medicamentos básicos. Estoque crítico, impacto leve sobre os atendimentos, mas demanda por reposição imediata é necessária.",BAIXA
+O transporte para o centro comunitário está irregular e precisamos de apoio para que idosos cheguem com segurança.,BAIXA
+Urgente! Uma criança está com febre alta no Centro Comunitário do Bairro Verde e não há médicos ou remédios disponíveis. Precisamos de ajuda imediata.,ALTA
+"O centro comunitário do Jardim Florido está com falta crítica de alimentos, afetando cerca de 50 pessoas. Precisamos de doações urgentes hoje, até as 18 horas, para garantir que todos tenham refeições adequadas.",ALTA
+Uma criança caiu de bicicleta e machucou o joelho no parque da Vila Nova. Alguém tem um kit de primeiros socorros para ajudar?,BAIXA
+"Senhora com tosse forte, precisando ver médico, na Praça Central.",BAIXA
+"Na Rua das Flores, às 14h, identificamos três pessoas com sintomas de gripe forte, sem acesso a atendimento médico. Precisamos de voluntários para auxílio imediato. A situação pode se agravar sem ajuda rápida.",ALTA
+Famílias na Rua das Flores estão sem comida suficiente. Precisamos de doações urgentes para evitar uma situação crítica.,ALTA
+"Famílias na comunidade do Parque Esmeralda estão sem alimentos básicos e precisam de doações urgentes para sobreviver. Quem puder ajudar, por favor, envie alimentos não perecíveis o quanto antes.",ALTA
+"Vazamento de gás, forte cheiro na Rua das Flores! Risco alto!",ALTA
+"Há uma inundação na Rua das Flores, altura do número 500, impedindo o acesso de moradores às suas casas. Necessária ajuda urgente para realocação e suporte. Ocorreu por volta das 14h de hoje.",ALTA
+"Temos um vazamento de gás na Rua das Flores, próximo à padaria, e precisamos de assistência urgente para evitar acidentes. Alguém pode ajudar a contatar os serviços de emergência?",ALTA
+"Estamos sem comida no centro comunitário do bairro. Crianças e idosos estão sofrendo, precisamos de alimentos urgentemente!",ALTA
+"O posto de saúde do bairro precisa de doações de materiais básicos de primeiros socorros, como ataduras e termômetros. Podem ajudar com isso?",BAIXA
+"Na Vila Prudente, ônibus para o centro estão parados devido a enchente desde 8h. Moradores enfrentam dificuldades para se locomover. Ajuda com transporte alternativo seria valiosa até que a situação normalize.",ALTA
+"Precisamos urgentemente de transporte para levar moradores para o abrigo da comunidade, pois a chuva forte deixou ruas alagadas e inseguras.",ALTA
+"Na praça central, a iluminação está falhando e deixando o local inseguro à noite. Precisamos de reparo urgente para garantir a segurança de todos.",ALTA
+"Preciso de transporte até a estação, não há ônibus disponíveis agora!",BAIXA
+Tem várias famílias no Centro Comunitário São Miguel precisando urgentemente de alimentos básicos para hoje.,ALTA
+"O acesso à Rua dos Girassóis está bloqueado devido a um acidente grave, impedindo a passagem de ambulâncias e veículos de emergência. Aconteceu por volta das 15h. Voluntários precisam coordenar rotas alternativas urgentemente.",ALTA
+Alguém caiu e precisa de atendimento médico aqui na praça central!,MEDIA
+O centro comunitário do Jardim Alegre precisa de doações de alimentos básicos. As famílias estão com o suprimento diário reduzido. A entrega pode ser feita no local até às 17h.,MEDIA
+"Na Rua Pinheiros, nº 200, está havendo escassez de profissionais médicos para atender a alta demanda de pacientes com sintomas respiratórios agudos, afetando gravemente a capacidade de resposta do posto de saúde local.",ALTA
+"Preciso de ambulância urgente! Criança ferida e inconsciente na Rua Acelino, próximo ao mercado!",ALTA
+"O ônibus da linha 342 parou de funcionar no meio da Avenida Central, deixando muitos sem transporte. Precisamos de ajuda para deslocamento dos passageiros até a próxima estação.",MEDIA
+Precisamos de transporte urgente para levar suprimentos ao centro comunitário do bairro Nova Esperança. A situação está ficando crítica com a falta de alimentos básicos.,ALTA
+"Uma pessoa está se sentindo indisposta na praça, mas não é grave. Alguém tem um kit de primeiros socorros ou pode levar ao posto de saúde?",BAIXA
+"Precisamos de transporte urgente para levar idosos do asilo Estrela ao hospital, pois há risco de complicações devido a uma queda de energia.",MEDIA
+"Na Rua das Flores, número 200, uma idosa necessita de atendimento médico urgente devido a fortes dores no peito, por volta das 10h. Sua saúde parece debilitada e requer atenção rápida para evitar complicações.",ALTA
+Urgente: Vazamento de gás em prédio residencial na Rua Silva! Evacuação imediata necessária!,ALTA
+"O transporte coletivo na região da Vila Mariana está temporariamente interrompido devido a uma obra. Recomendo considerar rotas alternativas. Espera-se normalização até o final do dia. A situação não causa grande impacto, mas é bom estar ciente.",BAIXA
+"Na Rua das Flores, próximo ao número 123, um grupo de moradores precisa de primeiros socorros após um pequeno acidente doméstico ocorrido por volta das 15h. Ferimentos leves, mas necessitam de auxílio médico básico.",MEDIA
+"Uma criança caiu e machucou feio o braço no parque do bairro, precisamos de atendimento médico rápido!",ALTA
+"Na região de Itaquera, próximo ao Parque do Carmo, houve interrupção no fornecimento de água, afetando 200 famílias que necessitam urgentemente de abastecimento. As unidades de saúde locais estão sobrecarregadas pela demanda de água limpa.",ALTA
+"O posto de saúde no bairro Capão Redondo está com falta de suprimentos médicos básicos, impactando o atendimento a cerca de 30 pacientes por dia. Necessária reposição urgente para evitar agravamento da situação.",MEDIA
+"Falta comida no abrigo do centro, precisamos de mantimentos urgentemente!",MEDIA
+Alguém está com dificuldade para respirar na praça. Precisa de socorro médico urgente!,ALTA
+Tem um bebê com febre alta na creche da Vila Nova e não há atendimento médico disponível ainda.,ALTA
+"Árvore caída bloqueando a Rua das Flores, trânsito lento.",BAIXA
+"A escola local em Jardim das Flores está sem energia elétrica desde ontem, impedindo aulas e atividades essenciais. A situação está afetando cerca de 500 alunos e precisa de solução urgente para retomada das atividades.",ALTA
+Uma criança está com febre alta na Praça Central e não há atendimento médico por perto. Precisamos de ajuda urgente!,ALTA
+Criança com febre alta no parque! Precisa de médico urgente! Ponto de encontro ao lado da fonte.,ALTA
+Famílias no bairro estão precisando de apoio para reconstruir suas casas após a forte chuva; muitos perderam tudo e estão vulneráveis.,MEDIA
+Precisamos de transporte para levar doações até o centro comunitário do bairro. Elas são essenciais para as famílias carentes que precisam de apoio urgente.,MEDIA
+"Hospital São Bernardo no bairro Jardim Silvina sofre escassez crítica de suprimentos médicos essenciais, impactando atendimento a pacientes graves. Urgente necessidade de reposição imediata para evitar comprometer vidas.",ALTA
+"Há uma pessoa caída no parque com dor, precisa de atendimento médico.",MEDIA
+"Na Rua das Flores, um grupo de idosos relatou falta de medicações essenciais no posto de saúde local, desde ontem. Algumas consultas estão sendo adiadas. Voluntários podem ajudar com transporte ou orientações.",MEDIA
+"O pessoal no centro comunitário precisa de ajuda com transporte para levar doações até o abrigo. Quem puder ajudar com carro, avise.",BAIXA
+"Na Rua das Flores, árvores caídas bloqueiam a via desde a madrugada, impedindo a passagem de veículos e pedestres. É urgente a remoção para evitar acidentes e permitir a circulação segura no bairro.",ALTA
+O Centro Comunitário da Lapa está enfrentando falta de alimentos devido à alta demanda. Precisamos urgentemente de doações para suprir as necessidades das famílias atendidas. O horário crítico é das 10h às 18h.,ALTA
+"Na Rua das Flores, nº 200, ocorreu um deslizamento de terra bloqueando o acesso ao bairro Jardim Primavera. Urgente: necessidade de equipe especializada para remoção e avaliação de segurança, com risco iminente de novos deslizamentos.",ALTA
+"O transporte público na região central está sobrecarregado devido ao aumento no fluxo de passageiros. Isso causa atrasos consideráveis nos horários de pico entre 7h e 9h e entre 17h e 19h, dificultando o deslocamento para o trabalho.",MEDIA
+"Na Rua das Flores, nº 200, Jardim Primavera, há escassez de alimentos no centro comunitário, afetando cerca de 30 famílias. Estoques críticos podem agravar a situação nas próximas 48 horas sem reposição adequada.",MEDIA
+"No bairro Vila Mariana, uma senhora idosa necessita urgentemente de cuidados médicos. Vizinhos relatam sintomas graves desde a manhã de hoje, por volta das 9h. Ajuda médica imediata é essencial para estabilizar sua condição.",ALTA
+"A praça central da Vila Mariana está sem iluminação pública desde ontem, o que compromete a segurança e tranquilidade dos moradores durante a noite. Seria importante que os reparos fossem feitos o quanto antes para evitar incidentes.",MEDIA
+Estamos presos no bairro sem transporte para sair! Precisamos de ajuda para evacuar.,MEDIA
+"Tem enchente na rua das Flores, casas em risco e precisamos de ajuda urgente para evacuar e proteger os moradores.",ALTA
+"Na Praça Central, às 14h, um grupo de crianças está sem brinquedos adequados para recreação. Doações de brinquedos simples podem fazer a diferença e alegrar o ambiente.",BAIXA
+"Na Rua das Flores, uma senhora idosa precisa de assistência médica leve devido a uma queda. Ela está consciente e sem ferimentos graves, mas precisa ser avaliada por um médico. Seria útil uma visita até o final da tarde.",BAIXA
+O centro comunitário do bairro Pinheiros precisa de voluntários para ajudar na organização de atividades culturais para crianças nas tardes de sábado. Essa ajuda é essencial para manter as crianças engajadas e seguras enquanto seus pais trabalham.,MEDIA
+"Na manhã de hoje, na região de Pinheiros, observamos filas extensas e atrasos significativos nos ônibus devido a obras na estrada. Muitos trabalhadores estão enfrentando dificuldades para chegar ao trabalho. Ajuda com transporte alternativo seria valiosa.",ALTA
+A estação de trem do Jardim Helena está com fluxo lento devido a manutenção. Sugere-se que os usuários planejem saídas com antecedência para evitar atrasos durante o horário de pico da manhã.,BAIXA
+"Um rapaz está com febre baixa no centro comunitário, pode ser só gripe, mas seria bom checar.",BAIXA
+"Na UBS Vila Mariana, há falta de profissionais para atendimento pediátrico, afetando consultas agendadas de 15 crianças. Urgente reabastecimento de recursos humanos para evitar atrasos críticos no atendimento básico.",MEDIA
+"Na UBS Vila Mariana, há falta temporária de insumos médicos essenciais, impactando a continuidade do atendimento cotidiano. Aproximadamente 50 pessoas aguardam assistência, podendo agravar desnecessariamente os casos de saúde não atendidos de prontidão.",MEDIA
+"Precisamos de um check-up médico na Praça da Amizade; algumas pessoas estão sentindo tontura e náusea. A situação está sob controle, mas seria bom verificar.",MEDIA
+"Alguém caiu no metrô Sé, precisa de atendimento médico rápido!",ALTA
+Alerta de incêndio começando na praça do bairro! Precisamos de bombeiros agora!,ALTA
+Estamos sem alimentos no centro comunitário do Bairro das Flores. Muitas famílias dependem desse apoio urgente para hoje. Precisamos de doações ou ajuda imediata!,ALTA
+"O pessoal da ocupação no antigo prédio da Rua das Flores está precisando urgente de alimentos básicos. A situação não é crítica, mas precisamos de ajuda para garantir que todos tenham o que comer.",MEDIA
+Há uma mulher passando mal com dificuldades para respirar no parque. Precisamos de ajuda médica urgente!,ALTA
+Precisamos de carona urgente para levar alimentos do centro comunitário ao abrigo no bairro Alto da Serra. Alguém pode ajudar com transporte?,MEDIA
+Ônibus não apareceu. Pessoas presas sem transporte. Precisamos de ajuda urgente!,ALTA
+Pessoa ferida gravemente na Rua das Flores! Precisa de resgate imediato!,ALTA
+Senhora com dor de cabeça leve precisa de analgésico no Edifício Central.,BAIXA
+Alguém está com febre alta e desidratado. Precisa de ajuda médica rápida!,MEDIA
+Uma senhora no bairro Pinheiros necessita de acompanhamento médico para controle de pressão arterial. Ela reside sozinha na Rua Teodoro Sampaio e precisa de visitas semanais para monitoramento. Horário flexível durante o dia.,MEDIA
+O depósito do centro comunitário Vila Nova está sem alimentos e as famílias estão sem suprimentos para o fim de semana.,ALTA
+Precisamos de transporte urgentemente para evacuar moradores do prédio na Rua dos Pinheiros devido a um incêndio. As saídas estão bloqueadas e o risco é grande.,ALTA
+"Na Rua das Flores, 500, há uma emergência médica desde as 10h. Uma pessoa apresenta sintomas graves e necessita de assistência urgente. Presença de ambulância ou ajuda profissional é essencial no local.",ALTA
+Uma criança está muito ferida e precisa de socorro médico imediato na praça central!,ALTA
+"Famílias sem comida na rua principal, precisamos de ajuda urgente!",ALTA
+"A praça central de Santo Amaro está com os bancos danificados, dificultando o descanso dos frequentadores, especialmente idosos. Seria ideal providenciar reparos para maior conforto e segurança. Observado hoje pela manhã.",BAIXA
+O transporte público na região do Jardim São Luiz tem enfrentado atrasos frequentes hoje devido a obras na Avenida João Dias. Recomenda-se que os moradores busquem rotas alternativas para evitar longas esperas.,MEDIA
+"Mulher se queixando de dor intensa no braço, precisa de assistência médica!",MEDIA
+"Na Rua das Flores, 123, uma senhora idosa necessita urgentemente de atendimento médico devido a dificuldades respiratórias. O incidente ocorreu por volta das 14h e foi relatado por vizinhos preocupados.",ALTA
+"Na Avenida Paulista, nº 1200, transporte público interrompido devido a manifestação, impactando o deslocamento de cerca de 500 pessoas para centros de saúde e trabalho.",ALTA
+"Na Rua das Flores, Vila Mariana, há uma queda de energia desde ontem à noite, afetando mais de 200 residências. A falta de luz está causando dificuldades, especialmente para pessoas que dependem de equipamentos elétricos.",ALTA
+Precisamos urgente de doações de alimentos no Centro Comunitário Vila Nova para famílias que foram desalojadas pelas enchentes recentes.,ALTA
+"Há falta de medicamentos essenciais no Posto de Saúde da Rua das Rosas, nº 250, afetando atendimento de 35 pacientes com condições crônicas.",MEDIA
+"O centro comunitário no Jardim Helena enfrenta falta crítica de alimentos. Urgente ajuda para reabastecimento. Voluntários, por favor, compareçam até às 18h para ajudar a distribuir doações às famílias necessitadas.",ALTA
+"O centro comunitário do Jardim São Luiz enfrenta escassez de alimentos para famílias carentes. Doações são bem-vindas, especialmente de arroz e feijão. O local funciona das 9h às 17h e a demanda está aumentando diariamente.",MEDIA
+"No bairro de Vila Mariana, há uma necessidade urgente de distribuição de água potável devido à contaminação da rede local. Aproximadamente 150 famílias estão afetadas e carecem de suprimento alternativo imediato.",ALTA
+Preciso de kit de primeiros socorros para um pequeno corte na feira.,BAIXA
+Precisamos de transporte para levar doações ao centro comunitário no bairro Flores. Alguém pode ajudar?,BAIXA
+Preciso de ajuda médica urgente! Criança inconsciente na Rua Floriano Peixoto!,ALTA
+"Há dificuldades no transporte público na região do Brás devido a obras inesperadas. Ônibus e trens estão com atrasos significativos desde às 8h, afetando o deslocamento dos moradores. Recomenda-se planejar rotas alternativas.",MEDIA
+Precisamos de alimentos para famílias no abrigo comunitário agora!,MEDIA
+Temos vários idosos na Rua das Flores sem meio de transporte para vacinas no posto mais próximo. Alguém pode ajudar com carona ou van?,MEDIA
+Urgente: famílias no abrigo comunitário do bairro Santa Clara estão sem alimentos básicos. Precisamos de doações imediatas para evitar uma situação crítica de fome.,ALTA
+Um grupo de crianças no Parque das Flores está com sintomas de gripe e precisamos de atenção médica. Alguém pode ajudar com isso?,MEDIA
+"O bloqueio na Avenida Salgado Filho, no entroncamento com a Rua das Orquídeas, impede o transporte de suprimentos essenciais para o Hospital Municipal. Acesso obstruído está afetando assistência a mais de 50 pacientes em estado crítico.",ALTA
+Precisamos de transporte urgente para idosos na Avenida Paulista. Sem acesso a veículos!,MEDIA
+"O centro de saúde na Avenida Paulista, nº 1003, está sem energia, comprometendo o funcionamento de equipamentos médicos essenciais. Há 20 pacientes, incluindo casos críticos, que necessitam de intervenção médica imediata e suporte logístico para transporte de equipamentos.",ALTA
+O Centro Comunitário do Jardim São Luís está com estoque de alimentos quase esgotado e precisa urgentemente de doações para atender as famílias da região. Importante que as doações cheguem hoje até às 17h.,ALTA
+"A comunidade do Jardim Peri, localizada na Zona Norte de São Paulo, enfrenta uma escassez crítica de alimentos, afetando cerca de 300 famílias. Não há acesso logístico disponível atualmente para a entrega de suprimentos essenciais.",ALTA
+O centro comunitário no bairro Vila Nova precisa de alimentos urgentemente para atender famílias carentes; os estoques estão quase no fim.,ALTA
+"No bairro de Pinheiros, uma senhora está com febre persistente desde ontem. Ela precisa de assistência médica até o fim do dia. A situação é controlada, mas requer atenção para evitar complicações.",MEDIA
+Famílias no bairro Jardim das Flores estão sem comida há três dias; precisamos urgentemente de doações de alimentos para evitar uma situação crítica.,ALTA
+"Na Rua das Flores, 123, em Santo André, uma pessoa sofreu convulsão às 10h e precisa urgentemente de atendimento médico. A situação é crítica e requer ação imediata de profissionais de saúde.",ALTA
+"O transporte público em Santo Amaro está com atrasos de cerca de 30 minutos, principalmente nas linhas de ônibus. Isso afeta o deslocamento de trabalhadores e estudantes durante os horários de pico da manhã.",MEDIA
+O centro comunitário do Jardim América está necessitando de doações de alimentos básicos. Os suprimentos estão baixos e são importantes para atender as famílias locais. Doações podem ser entregues até as 17h.,MEDIA
+Tem alguns moradores da nossa rua com sintomas de gripe forte e precisamos de orientação médica para evitar que a situação piore.,MEDIA
+"Alguns moradores precisam de cobertores e roupas quentes no abrigo do centro comunitário, está esfriando e a previsão é de mais quedas de temperatura.",MEDIA
+"Um jovem se machucou jogando futebol no campo do Parque Verde. Está consciente, mas precisa de cuidado médico para avaliar a situação. Ajuda médica seria bem-vinda.",MEDIA
+Pessoa com tosse persistente na fila do posto. Precisa de verificação médica leve.,BAIXA
+Idoso com dor no peito precisa de ajuda médica na praça central.,MEDIA
+"Preciso de primeiros socorros para alguém com pequeno corte no braço, no parque central.",BAIXA
+"Na rua das Flores, próximo ao número 240, um pequeno grupo de idosos necessitou de aferição de pressão arterial por volta das 10h. Situação controlada, mas recomenda-se monitoramento semanal para garantir bem-estar.",BAIXA
+O centro comunitário no Jardim São Paulo está sem comida para distribuição. Cerca de 150 pessoas estão sem refeições desde ontem à noite. Ajuda urgente é necessária para reabastecer os estoques hoje.,ALTA
+"Temos uma pessoa com febre alta e sem medicamentos na Rua das Flores, precisamos de suporte médico o mais rápido possível.",MEDIA
+"Uma árvore caiu na Rua das Rosas, bloqueando a passagem e ameaçando cair sobre casas. Precisamos de ajuda urgente para remover antes que cause danos maiores.",ALTA
+"A ponte sobre o rio Tamanduateí, no centro de Santo André, está interditada devido a um acidente grave nesta manhã, impactando o trânsito e o transporte público na área. Evite a região e considere rotas alternativas.",ALTA
+"Na Rua das Flores, próximo ao número 250, há dificuldade de locomoção devido a uma queda de árvore. Afeta o trânsito local, especialmente entre 9h e 11h. A remoção seria útil para melhorar o fluxo.",MEDIA
+"A creche na Rua das Flores, nº 210, está sem fornecimento de alimentos há 48 horas, afetando 30 crianças. Necessidade urgente de suprimentos nutricionais para evitar desnutrição e instabilidade social.",ALTA
+Uma criança sofreu uma queda na praça central e precisa urgentemente de atendimento médico. Alguém pode ajudar ou contatar um serviço de emergência?,ALTA
+Preciso de ajuda médica urgente no Parque Central! Uma pessoa caiu e está inconsciente!,ALTA
+"No Jardim Paulista, a escola comunitária relatou falta significativa de alimentos para o almoço das crianças. A necessidade é urgente, impactando 150 alunos. Estoques devem ser repostos até amanhã para evitar interrupções nas refeições.",ALTA
+"Precisamos de comida urgente no abrigo da Vila Mariana, muitas pessoas sem alimentação!",ALTA
+"Um morador do Jardim São Luís necessita de medicamentos para pressão alta. A situação não é urgente, mas a medicação é importante para controle. Qualquer ajuda é bem-vinda.",BAIXA
+Preciso de assistência médica leve para alguém com uma ferida pequena na mão.,BAIXA
+Os moradores do bairro estão sem transporte para acessar o único hospital da região. Precisamos de ajuda urgente para garantir que todos consigam atendimento.,ALTA
+Preciso de orientação médica para febre leve e dor de cabeça. Algum voluntário disponível?,BAIXA
+"Sem comida há dois dias no abrigo, urgente ajuda!",ALTA
+"Na UBS Jardim Tamoio, Jardim Helena, estoque de esparadrapos está abaixo do mínimo requerido. Estoque atual: 10 unidades, necessário reabastecimento para manutenção de atendimentos básicos.",BAIXA
+"A creche do Jardim das Flores precisa urgentemente de doações de comida para as crianças. O estoque atual só dura até amanhã. Local: Rua das Acácias, 123. Voluntários são necessários o mais rápido possível.",MEDIA
+Uma criança caiu na praça central e parece ter machucado o braço; precisamos de um médico para checar a situação.,MEDIA
+Preciso de um médico urgente para uma pessoa ferida na Rua Principal!,ALTA
+"No bairro de Santo Amaro, hoje às 9h, uma ponte caiu, bloqueando o acesso ao hospital local. Isso está impedindo a chegada de ambulâncias e veículos de transporte para emergências médicas. A situação é urgente.",ALTA
+"Criança com febre alta na escola, precisamos de um médico urgente!",ALTA
+A comunidade do Jardim Esperança está sem suprimentos básicos de alimento. Precisamos urgentemente de apoio para garantir que todas as famílias tenham o que comer nos próximos dias.,ALTA
+"Árvore caiu na avenida, bloqueando passagem. Precisamos de ajuda para liberar a via.",MEDIA
+"Precisamos de voluntários urgentemente para ajudar na distribuição de roupas no centro comunitário do bairro. A demanda cresceu muito após as chuvas, e está crítica.",ALTA
+Uma árvore caiu e está bloqueando a única entrada da creche no bairro Jardim Novo; precisamos de ajuda para liberar o acesso das crianças.,ALTA
+Precisamos de transporte urgente para evacuar pessoas! Estamos presos e em perigo!,ALTA
+"No bairro de Jardim das Flores, uma árvore caiu bloqueando a rua principal nesta manhã, dificultando o trânsito. Seria útil ajudar na remoção para liberar a via e evitar transtornos aos moradores.",MEDIA
+"Estamos com uma árvore caída bloqueando a rua principal, e isso impede a passagem de veículos de emergência e residentes. Precisamos de ajuda urgente para removê-la e liberar o caminho.",ALTA
+Precisamos de voluntários para ajudar na distribuição de água potável na praça central; muitos moradores estão sem acesso desde ontem.,MEDIA
+Um vizinho no prédio ao lado está resfriado e precisando de alguns remédios básicos. Alguém pode ajudar?,BAIXA
+"Os moradores da Rua das Flores enfrentam problemas com a coleta de lixo atrasada, acumulando resíduos desde quinta-feira. Embora não seja urgente, uma solução rápida tornaria o ambiente mais agradável para todos.",BAIXA
+"O ônibus para o hospital não passou hoje, deixando várias pessoas sem transporte para consultas importantes. Precisamos de ajuda urgente para conseguir transporte alternativo.",ALTA
+"Criança com febre baixa na Rua das Flores, precisa de termômetro e orientação médica.",BAIXA
+Urgente: um morador idoso desmaiou na praça ao lado da padaria e não temos assistência médica. Precisamos de um médico o quanto antes!,ALTA
+"Um vazamento de gás forte está acontecendo na Rua das Palmeiras, próximo ao número 100. Precisamos da equipe de emergência imediatamente para evitar um acidente grave.",ALTA
+"Na Praça das Flores, muitos idosos estão reunidos aguardando assistência para cadastro em programas sociais. A situação ocorre desde as 9h, e há necessidade de apoio organizacional para agilizar o processo.",MEDIA
+"Precisamos de comida imediatamente na Rua Silva, estoque acabou, muitas pessoas com fome!",ALTA
+"O parque da Vila Maria está sofrendo com alagamentos temporários, dificultando o acesso dos moradores. Equipes de limpeza podem ajudar a desobstruir caminhos. A situação pode se agravar se chover mais até o fim do dia.",MEDIA
+"O centro comunitário na Avenida Paulista, nº 1578, está com baixa disponibilidade de voluntários para atividades recreativas infantis. O impacto é mínimo sobre a logística local, mas a presença de voluntários é essencial para o funcionamento adequado das atividades.",BAIXA
+Precisamos de médico. Criança com febre alta no Parque de Diversões.,MEDIA
+Cobertores precisando urgente na praça central; clima esfriando rápido.,MEDIA
+O Centro Comunitário Jardim Primavera está sem comida para as refeições de hoje. Muitas famílias dependem dessas refeições diárias. Doações urgentes são necessárias até às 14h para evitar impacto crítico.,ALTA
+Criança com febre alta e sem atendimento no centro comunitário. Precisamos de ajuda médica agora!,ALTA
+"A queda de uma árvore na Rua das Acácias, às 14h, bloqueou a via e danificou cabos de energia. A situação impede o trânsito e o acesso a serviços essenciais, exigindo intervenção urgente das autoridades.",ALTA
+Há alguém ferido na esquina da Rua X. Precisa de atenção médica.,MEDIA
+Estamos com falta de alimentos no centro comunitário de Vila Esperança. Várias famílias estão sem refeições adequadas para o dia. Precisamos de doações urgentes para o refeitório local.,MEDIA
+"Na Rua das Flores, nº 210, há um déficit significativo na distribuição de alimentos, afetando aproximadamente 50 pessoas, incluindo 15 crianças. A interrupção no fornecimento local compromete a segurança alimentar, necessitando de ação imediata para restabelecer o suprimento.",ALTA
+"Uma senhora idosa na Rua das Flores está com leve desconforto respiratório. Seria útil verificar se há um voluntário médico disponível para uma avaliação por volta das 14h. A situação parece tranquila, mas precisa de atenção.",BAIXA
+"Uma criança está com dificuldade de respirar na creche do bairro e precisamos de ajuda médica urgente, ainda não chegou socorro.",ALTA
+"Uma moradora idosa na Rua das Flores precisa de medicação de pressão alta. Ela está sem transporte para buscar na farmácia. O impacto observado é baixo, mas necessita de suporte até amanhã.",BAIXA
+"O centro comunitário no Bairro da Liberdade precisa urgentemente de alimentos não perecíveis. Famílias carentes aguardam apoio, especialmente à noite. Sua doação pode fazer uma grande diferença e ajudar a aliviar a fome.",ALTA
+"O centro de distribuição na Av. Paulista, nº 1578, enfrenta carência de suprimentos alimentares básicos. A situação impacta diretamente cerca de 150 famílias na região, necessitando de reposição urgente para evitar agravamento da insegurança alimentar.",MEDIA
+Estamos precisando de voluntários para ajudar na organização e distribuição de doações na escola comunitária do bairro. Qualquer ajuda será bem-vinda.,BAIXA
+Uma criança está com febre alta e não há remédios no abrigo.,MEDIA
+"As fortes chuvas causaram inundação na Rua São Pedro, afetando várias casas. Resgates são necessários, especialmente para idosos e crianças aqui. Recomenda-se trazer suprimentos e roupas secas. O suporte imediato é urgente.",ALTA
+"Preciso de abrigo urgente, a casa foi alagada e estou sem lugar seguro!",ALTA
+"Na Rua das Flores, Jardim Sul, idosos têm dificuldade para acessar medicamentos. Farmácias locais estão com estoques baixos. Pedido para voluntários auxiliarem na reposição e distribuição. Situação ocorre principalmente pela manhã e tarde.",MEDIA
+As famílias na rua da Palmeira estão sem comida há dias. Precisamos de doações de alimentos urgentemente para evitar que a situação se agrave.,ALTA
+Urgente: Criança caiu de bicicleta na praça e está com dor forte no braço. Precisamos de um médico o quanto antes!,ALTA
+"Na Unidade Básica de Saúde da Rua João Moura, nº 52, ocorre falta de medicamentos essenciais e equipamentos médicos para atendimento emergencial. Aproximadamente 50 pacientes estão sem suporte adequado, impactando o tratamento imediato de casos críticos.",ALTA
+"Famílias sem comida no abrigo, ajuda urgente! Não há nada para eles comerem!",ALTA
+Precisamos de transporte agora para evacuar pessoas do prédio em risco de desabamento!,ALTA
+"Precisamos de voluntários com carro para ajudar no transporte de alimentos para o centro comunitário, pois a entrega atrasou e muitos dependem dessa refeição.",MEDIA
+Precisamos de transporte urgente no Jardim Ângela para levar idosos ao abrigo seguro.,MEDIA
+Falta de energia elétrica no cruzamento principal. Semáforos apagados. Atenção!,MEDIA
+"Na Escola do Bairro da Luz, houve um vazamento de gás hoje cedo. A área foi evacuada, mas é necessário suporte imediato para segurança e assistência aos alunos e funcionários até que a situação esteja controlada.",ALTA
+Precisamos de transporte urgente para evacuar crianças da escola inundada!,ALTA
+"Tem uma criança com febre leve na pracinha do bairro Vila Nova, mas ainda não vimos nenhum profissional de saúde por aqui.",BAIXA
+O Centro Comunitário do Jardim São Paulo está com falta grave de alimentos. Famílias chegam diariamente e o estoque deve acabar em dois dias. Urgente apoio com doações de alimentos não perecíveis.,ALTA
+Famílias no Parque das Flores estão sem comida há dois dias. Precisamos de ajuda urgente!,ALTA
+"Na Rua das Flores, Vila Mariana, há falta de transporte público após as 21h, afetando principalmente trabalhadores noturnos. Sugere-se planejar alternativas de mobilidade para garantir o retorno seguro e pontual dos cidadãos.",BAIXA
+"Na Rua das Flores, uma senhora idosa precisa de medicação para diabetes. O medicamento se esgotou e é necessário até o final do dia. A comunidade agradeceria qualquer ajuda que possam oferecer.",MEDIA
+Uma pessoa ferida na esquina da Rua A com Rua B! Precisa de ajuda médica urgente!,ALTA
+"Precisamos de transporte urgente na Avenida Central, há 10 pessoas sem como voltar para casa!",MEDIA
+"Na Avenida Paulista, nº 200, transporte interrompido devido a alagamentos, impedindo a passagem de veículos de resgate. Aproximadamente 20 pessoas ilhadas, incluindo crianças e idosos, necessitando de evacuação urgente.",ALTA
+"Um idoso precisa de consulta médica em casa, sem urgência.",BAIXA
+"Pessoal com sintomas de febre e dor no abrigo, precisamos de ajuda médica urgente!",MEDIA
+Preciso de ajuda médica urgente para ferido na Rua Principal!,ALTA
+"O posto de saúde na Avenida Paulista, nº 900, enfrenta escassez de medicamentos essenciais e falta de pessoal médico. Aproximadamente 25 pacientes aguardam atendimento urgente, incluindo casos críticos.",ALTA
+"O centro comunitário no Jardim das Flores está com baixo estoque de alimentos, especialmente arroz e feijão, devido à alta demanda. Precisamos de doações urgentes para atender as famílias locais. Qualquer ajuda será muito bem-vinda.",MEDIA
+"Na Unidade Básica de Saúde do Jardim São Paulo, Rua das Flores, nº 789, há escassez de alimentos para 30 famílias vulneráveis. Estoques estimados para apenas 3 dias, exigindo reabastecimento imediato.",MEDIA
+Estamos sem comida no abrigo! Crianças e idosos precisam de ajuda urgente!,ALTA
+"Mulher ferida após queda, precisa de atendimento médico urgente na Rua Silva.",ALTA
+Uma criança machucou-se ao cair no parquinho da praça central. Precisamos urgentemente de assistência médica no local.,ALTA
+Famílias sem comida na rua da igreja! Precisamos de alimentos urgentemente!,MEDIA
+"O parque do bairro está sem iluminação, e há relatos de pessoas suspeitas rondando. Precisamos de apoio para segurança local urgentemente.",ALTA
+"Faltam mantimentos no abrigo do centro, precisamos de ajuda urgente!",MEDIA
+"Na Rua das Flores, o playground comunitário precisa urgente de reparos. Crianças estão em risco devido às estruturas danificadas. A situação requer atenção imediata para garantir a segurança dos pequenos. Voluntários são bem-vindos!",ALTA
+Preciso de transporte urgente para levar suprimentos para uma família isolada em casa.,MEDIA
+"Na Rua das Flores, número 27, uma senhora idosa precisa de medicamentos para hipertensão, que acabaram. Previsão de necessidade de reposição é ainda hoje para evitar complicações. Voluntários podem ajudar com o fornecimento necessário.",MEDIA
+"No bairro São João, uma senhora idosa está com dificuldades respiratórias agudas. É urgente assistência médica imediata na Rua Almeida, 120. A situação é crítica e precisa de atenção rápida para seu bem-estar.",ALTA
+Precisamos de transporte urgente para levar doações de alimentos ao centro comunitário do bairro São Pedro. As doações estão paradas e a comunidade depende delas.,MEDIA
+"Na Rua da Paz, zona sul, o transporte público enfrenta atrasos severos. Isso impacta trabalhadores locais, gerando longas filas e insatisfação geral. A situação requer atenção imediata para restabelecer o fluxo normal.",ALTA
+Estamos com falta de alimentos no centro comunitário do bairro. Precisamos de doações urgentes para atender famílias que estão sem suprimentos.,ALTA
+"Na UBS Vila Mariana, há falta de profissionais de saúde para atender um aumento significativo de casos de doenças respiratórias. A situação ultrapassa a capacidade atual de atendimento, gerando riscos à saúde da comunidade.",ALTA
+"Na Rua das Flores, zona leste, há um grupo de idosos aguardando transporte para consultas médicas. O ônibus não passou hoje, causando preocupação. Sua ajuda pode garantir acesso ao atendimento necessário.",MEDIA
+"Na Rua das Flores, Jardim Primavera, ônibus estão atrasando cerca de 40 minutos devido a um acidente. Recomenda-se buscar alternativas para deslocamento entre 7h e 9h. O trânsito está fluindo lentamente, mas sem bloqueios totais.",MEDIA
+Urgente! Precisamos de transporte imediato para evacuar pessoas perto da enchente na Zona Sul!,ALTA
+Estamos precisando de transporte urgente para levar doações de alimentos ao centro comunitário do Jardim Mariana. Não temos veículos disponíveis no momento.,MEDIA
+"Na região do Capão Redondo, o centro de distribuição está com falta de água potável, afetando cerca de 150 pessoas. Necessidade urgente de reabastecimento para evitar problemas sanitários e de saúde.",ALTA
+"Na praça do bairro Jardim das Flores, a iluminação pública está precária, impactando a segurança dos residentes durante a noite. Seria ideal uma intervenção para melhorar a visibilidade no local.",MEDIA
+"Na UBS Jardim das Flores, há necessidade de reforço em suprimentos médicos básicos, com estoque crítico de máscaras e antissépticos. Local não reporta aumento significativo de atendimentos, mas a reposição é essencial para manter o funcionamento regular.",BAIXA
+"Há um incêndio no prédio ao lado da padaria, todos precisam evacuar agora!",ALTA
+"Na Avenida Paulista, altura do número 1500, ocorre bloqueio de tráfego com veículos parados devido a um acidente. Necessidade de liberação do transporte para fluidez no local e evitar maiores congestionamentos.",MEDIA
+"Na Unidade Básica de Saúde de Itaquera, localizado na Rua Carolina Fonseca, há escassez de suprimentos médicos essenciais. A situação impacta diretamente o atendimento de cerca de 50 pacientes diários, necessitando reposição imediata de materiais médicos básicos.",ALTA
+"Na Rua das Flores, número 123, uma pessoa está inconsciente no local desde as 14h. Precisa urgentemente de atendimento médico. Se você puder ajudar ou acionar um serviço de emergência, por favor, faça-o rapidamente.",ALTA
+Um vizinho precisa de transporte para levar suprimentos ao centro comunitário do bairro; alguém tem um carro disponível?,BAIXA
+"Há relatos de que moradores da Vila Nova São Miguel têm dificuldades com transporte público no horário de pico, entre 17h e 19h. Isso está impactando o acesso ao trabalho e à escola.",ALTA
+"Idoso precisa de socorro médico na Rua Silva, respiração fraca.",MEDIA
+"Precisamos de doações de alimentos na comunidade do Jardim das Flores, pois muitas famílias estão sem comida e não há suprimentos chegando.",ALTA
+"O ônibus para o centro demora muito, causando dificuldade para trabalhadores em Jardim América. Várias pessoas aguardam no ponto das 7 às 9 da manhã. Buscamos soluções para a melhoria do transporte na região.",MEDIA
+"No bairro de Santo Amaro, várias ruas estão alagadas devido às fortes chuvas. O trânsito está impedido, dificultando a circulação e afetando a vida diária dos moradores. Recomenda-se evitar a área por enquanto.",ALTA
+Há risco de enchentes na Vila Mariana devido à forte chuva prevista para hoje à noite. É importante que os moradores fiquem atentos e busquem abrigo seguro. Encaminhem qualquer alerta para as equipes de emergência.,ALTA
+"Precisamos urgentemente de comida no abrigo da Rua Central, muitas pessoas sem refeições!",ALTA
+Precisamos de transporte urgente para levar alimentos ao centro comunitário no Jardim das Flores. Os voluntários estão sem como entregar as doações.,MEDIA
+"Tem uma van parada na Rua das Flores por falta de combustível, precisamos de ajuda para levá-la ao posto mais próximo.",BAIXA

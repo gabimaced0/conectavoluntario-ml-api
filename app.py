@@ -17,3 +17,4 @@ class Pedido(BaseModel):
 def classificar_pedido(pedido: Pedido):
     pred = modelo.predict([pedido.texto])
     return {"prioridade": pred[0]}
+
