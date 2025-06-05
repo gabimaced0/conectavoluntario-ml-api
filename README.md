@@ -62,9 +62,9 @@ http://localhost:8000/docs
 ```
 
 Ou acesse diretamente nessa URL sem precisar fazer o deploy na sua maquina:
-´´´
+```bash
 https://conectavoluntario-ml-api.onrender.com/docs
-´´´
+```
 
 ---
 
