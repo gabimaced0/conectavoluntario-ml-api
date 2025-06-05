@@ -57,10 +57,14 @@ uvicorn app:app --reload
 ```
 
 Acesse a interface de teste da API:
-
 ```bash
 http://localhost:8000/docs
 ```
+
+Ou acesse diretamente nessa URL sem precisar fazer o deploy na sua maquina:
+´´´
+https://conectavoluntario-ml-api.onrender.com/docs
+´´´
 
 ---
 
